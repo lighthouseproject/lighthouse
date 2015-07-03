@@ -4,15 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node serve-static"
+    "build:scripts": "browserify scripts/app.js -v -t babelify --outfile public/scripts/app.js",
+    "build:styles": "node-sass --output-style compressed styles/main.scss -o public/styles",
+    "start:serve": "babel-node serve-static",
+    "start:watchStyles": "npm run build:styles && npm run build:styles -- -w styles/",
+    "start:watchScripts": "watchify scripts/app.js -v -t babelify --outfile public/scripts/app.js",
+    "start:watch": "npm run start:watchStyles && npm run start:watchScripts",
+    "start": "npm run start:watchStyles && npm run start:serve"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "babel": "^5.6.14",
     "babelify": "^6.1.2",
     "express": "^4.13.0",
+    "node-sass": "^3.2.0",
     "react": "^0.13.3",
     "watchify": "^3.2.3"
   }
