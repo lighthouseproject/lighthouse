@@ -1,16 +1,17 @@
 
 <div class="pure-g">
 
-    <div class="pure-u-1-2">
+    <div class="pure-u-1-4">
         <div class="l-box">
-        {{#each record in model}}
-          {{model.title}}
-        {{/each}}
-
+          {{#each record in model}}
+            {{#link-to "gazette.name" record.id}}
+              <li>{{record.title}}</li>
+            {{/link-to}}
+          {{/each}}
         </div>
     </div>
 
-    <div class="pure-u-1-2">
+    <div class="pure-u-3-4">
         <div class="l-box"> {{outlet}} </div>
     </div>
 
