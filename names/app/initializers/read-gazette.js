@@ -1,6 +1,6 @@
 export function initialize( container /*, application*/ ) {
-  let store = container.lookup('store:main');
-  store.pushMany('appointment', gazette['search']['results']);
+  // let store = container.lookup('store:main');
+  // store.pushMany('appointment', gazette['search']['results']);
 }
 
 export default {
