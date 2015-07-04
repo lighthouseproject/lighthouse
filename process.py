@@ -1,10 +1,17 @@
 
+
+appointments = []
+
 def process(record):
   parts = record['fulltext'].split("\n");
-  print "name: ", parts[1]
-  print "Appointment: ", parts[2]
-  print
-  print
+
+  appointments.append(
+    {
+      'raw': r,
+      'name': parts[1],
+      'appointment': parts[2]
+    }
+    )
 
 
 file = open('gazette.json')
@@ -18,4 +25,6 @@ for r in data:
   #print r['title']
   #print r['fulltext']
   process(r)
+
+print appointments
 
