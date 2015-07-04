@@ -7,6 +7,6 @@
 import DS from 'ember-data';
 
 export default DS.RESTAdapter.extend({
-  // host: 'govhack.data.geek.nz',
-  path: 'data'
+  // host: 'http://localhost',
+  namespace: 'names'
 });
