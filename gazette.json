@@ -2,72 +2,54 @@
     "search": {
         "facets": {},
         "page": 1,
-        "per_page": 100,
-        "request_url": "http://api.digitalnz.org/records.json?api_key=D8AaTuJujhPDLh3erWzL&and[primary_collection]=New+Zealand+Gazette&per_page=100&text=appointments/reappointments&fields=title,description,date,id&sort=date&direction=desc",
+        "per_page": 10,
+        "request_url": "http://api.digitalnz.org/records.json?api_key=D8AaTuJujhPDLh3erWzL&and[primary_collection]=New+Zealand+Gazette&per_page=10&text=appointments/reappointments&fields=title,description,fulltext,subject,date,id&sort=date&direction=desc",
         "result_count": 1833,
         "results": [
             {
                 "date": [
                     "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint\nAinsley Vivienne McLaren\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nDr Craig Frederick Ansley\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nShelley Jane Cave\nas a member from 1 July 2015 up to 30 June 2017; and I reappoint\nMichelle Elisa van Gaalen\nas a member from 1 November 2015 up to 31 October 2018.\nAll of the above are to the Government Superannuation Fund Author...",
-                "id": 36048697,
-                "title": "Appointment / reappointments to the Government Superannuation Fund Authority"
-            },
-            {
-                "date": [
-                    "2015-06-25 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints\nDr Blair Apperley\nDr Thomas Gordon Winter\nas health practitioner members of the Chiropractic Board for three-year terms of office commencing on the date of this notice\u2019s publication; and reappoints\nDr Kristin Grace\nas a health practitioner member of the Chiropractic Board for a three-year term of office commencing on the date of this notice\u2019s publication; and...",
-                "id": 36048694,
-                "title": "Reappointments / appointments to the Chiropractic Board"
-            },
-            {
-                "date": [
-                    "2015-06-25 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nNicholas Richard William Davidson, one of Her Majesty\u2019s Counsel, of Christchurch\na Judge of the High Court.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
-                "id": 36048707,
-                "title": "Appointment of Judge of the High Court"
-            },
-            {
-                "date": [
-                    "2015-06-25 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nRebecca Anne Edwards, barrister and solicitor, of Auckland\na Judge of the High Court, the Commission to take effect from 1 August 2015.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
-                "id": 36048708,
-                "title": "Appointment of Judge of the High Court"
-            },
-            {
-                "date": [
-                    "2015-06-25 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28(1)(a) of the Crown Entities Act 2004 and section 8(1) of the Health Research Council Act 1990, the Minister of Health has appointed\nDr Suzanne Georgina Pitama\nas a member of the Health Research Commission for a three-year term of office commencing on 22 June 2015.\nDated at Wellington this 16th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 36048709,
-                "title": "Appointment to the Health Research Council"
-            },
-            {
-                "date": [
-                    "2015-06-25 12:00:00 UTC"
-                ],
                 "description": "Pursuant to section 28 of the Crown Entities Act 2004, I reappoint\nRoger Heydon Bell\nDr Alison Claire O\u2019Connell\nas commissioners from 1 July 2015 up to 30 June 2018.\nDated at Wellington this 8th day of June 2015.\nHon GERRY BROWNLEE, Minister Responsible for the Earthquake Commission.",
+                "fulltext": "Pursuant to section 28 of the Crown Entities Act 2004, I reappoint\nRoger Heydon Bell\nDr Alison Claire O\u2019Connell\nas commissioners from 1 July 2015 up to 30 June 2018.\nDated at Wellington this 8th day of June 2015.\nHon GERRY BROWNLEE, Minister Responsible for the Earthquake Commission.",
                 "id": 36048687,
+                "subject": [
+                    "Departmental",
+                    "Crown Entities Act",
+                    "Appointments/reappointments",
+                    "The Treasury"
+                ],
                 "title": "Reappointments to the Earthquake Commission"
             },
             {
                 "date": [
                     "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health has appointed\nTania Kemp\nDr Kathryn Holloway\nas health practitioner members of the Nursing Council of New Zealand for three-year terms of office commencing on the date of this notice\u2019s publication; and\nDr Conway Powell\nas a layperson member of the Nursing Council of New Zealand for a three-year term of office commencing on the date of this notice\u2019s publication.\nDated ...",
-                "id": 36048688,
-                "title": "Appointments to the Nursing Council of New Zealand"
+                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint\nAinsley Vivienne McLaren\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nDr Craig Frederick Ansley\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nShelley Jane Cave\nas a member from 1 July 2015 up to 30 June 2017; and I reappoint\nMichelle Elisa van Gaalen\nas a member from 1 November 2015 up to 31 October 2018.\nAll of the above are to the Government Superannuation Fund Author...",
+                "fulltext": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint\nAinsley Vivienne McLaren\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nDr Craig Frederick Ansley\nas a member from 1 July 2015 up to 30 June 2018; and I reappoint\nShelley Jane Cave\nas a member from 1 July 2015 up to 30 June 2017; and I reappoint\nMichelle Elisa van Gaalen\nas a member from 1 November 2015 up to 31 October 2018.\nAll of the above are to the Government Superannuation Fund Authority.\nDated at Wellington this 8th day of June 2015.\nHon BILL ENGLISH, Minister of Finance.",
+                "id": 36048697,
+                "subject": [
+                    "Departmental",
+                    "Crown Entities Act",
+                    "Appointments/reappointments",
+                    "The Treasury"
+                ],
+                "title": "Appointment / reappointments to the Government Superannuation Fund Authority"
             },
             {
                 "date": [
                     "2015-06-25 12:00:00 UTC"
                 ],
                 "description": "Pursuant to section 159D of the Education Act 1989, and section 28 of the Crown Entities Act 2004, I appoint to the Tertiary Education Commission\nJohn Spencer\nas chair for a term of two years commencing on 1 August 2015 and expiring on 31 July 2017; and\nJohn Morris\nas a member for a term of three years commencing on 1 November 2015 and expiring on 31 October 2018; and\nSusan Paterson\nas a member for a term of three years commencing on 22 June 2015 and expiring on 21 June 2...",
+                "fulltext": "Pursuant to section 159D of the Education Act 1989, and section 28 of the Crown Entities Act 2004, I appoint to the Tertiary Education Commission\nJohn Spencer\nas chair for a term of two years commencing on 1 August 2015 and expiring on 31 July 2017; and\nJohn Morris\nas a member for a term of three years commencing on 1 November 2015 and expiring on 31 October 2018; and\nSusan Paterson\nas a member for a term of three years commencing on 22 June 2015 and expiring on 21 June 2018.\nDated at Wellington this 25th day of June 2015.\nHon STEVEN JOYCE, Minister for Tertiary Education, Skills and Employment.",
                 "id": 36048690,
+                "subject": [
+                    "Departmental",
+                    "Crown Entities Act",
+                    "Education Act",
+                    "Appointments/reappointments",
+                    "Education"
+                ],
                 "title": "Appointments to the Tertiary Education Commission"
             },
             {
@@ -75,736 +57,105 @@
                     "2015-06-25 12:00:00 UTC"
                 ],
                 "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nSandra Ferdinand\nand appoints\nProfessor David Baxter\nThomas Scott Thomson\nas health practitioner members of the New Zealand Physiotherapy Board for three-year terms of office commencing on the date of this notification; and reappoints\nCameron McIver\nas a layperson member of the New Zealand Physiotherapy Board for a three-year term of office commencing on th...",
+                "fulltext": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nSandra Ferdinand\nand appoints\nProfessor David Baxter\nThomas Scott Thomson\nas health practitioner members of the New Zealand Physiotherapy Board for three-year terms of office commencing on the date of this notification; and reappoints\nCameron McIver\nas a layperson member of the New Zealand Physiotherapy Board for a three-year term of office commencing on the date of this notification.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
                 "id": 36048691,
+                "subject": [
+                    "Departmental",
+                    "Health Practitioners Competence Assurance Act",
+                    "Appointments/reappointments",
+                    "Health"
+                ],
                 "title": "Reappointments / appointments to the New Zealand Physiotherapy Board"
             },
             {
                 "date": [
                     "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints to the Medical Sciences Council of New Zealand\nLynne Morgan\nas a health practitioner member for a three-year term of office commencing on the date of this notification; and\nMichelle Wanwimolruk\nas a layperson member for a three-year term of office commencing on the date of this notification.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLE...",
-                "id": 36048693,
-                "title": "Appointments to the Medical Sciences Council of New Zealand"
+                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints\nDr Blair Apperley\nDr Thomas Gordon Winter\nas health practitioner members of the Chiropractic Board for three-year terms of office commencing on the date of this notice\u2019s publication; and reappoints\nDr Kristin Grace\nas a health practitioner member of the Chiropractic Board for a three-year term of office commencing on the date of this notice\u2019s publication; and...",
+                "fulltext": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints\nDr Blair Apperley\nDr Thomas Gordon Winter\nas health practitioner members of the Chiropractic Board for three-year terms of office commencing on the date of this notice\u2019s publication; and reappoints\nDr Kristin Grace\nas a health practitioner member of the Chiropractic Board for a three-year term of office commencing on the date of this notice\u2019s publication; and reappoints\nProfessor Stefan John Pallister\nas a health practitioner member of the Chiropractic Board for a term of office commencing on the date of this notice\u2019s publication and ending on 10 September 2017.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
+                "id": 36048694,
+                "subject": [
+                    "Departmental",
+                    "Health Practitioners Competence Assurance Act",
+                    "Appointments/reappointments",
+                    "Health"
+                ],
+                "title": "Reappointments / appointments to the Chiropractic Board"
             },
             {
                 "date": [
                     "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint to the Sport and Recreation New Zealand (Sport NZ) Board\nColin Paul Cameron, of Wellington\nDr Brendan O\u2019Neill, of Auckland\nas members for a term of office from 1 July 2015 to 30 June 2018.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister for Sport and Recreation.",
-                "id": 36048695,
-                "title": "Appointments to the Sport and Recreation New Zealand (Sport NZ) Board"
-            },
-            {
-                "date": [
-                    "2015-06-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 282(2) of the Lawyers and Conveyancers Act 2006, His Excellency the Governor-General of New Zealand has been pleased to appoint\nThe Honourable Justice David Ian Gendall, Judge of the High Court\nas a member of the New Zealand Council of Legal Education for a term of three years commencing on 28 May 2015 and ending on 27 May 2018.\nDated at Wellington this 3rd day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
-                "id": 35976163,
-                "title": "Appointment to New Zealand Council of Legal Education"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand hereby appoints\nTimothy Castle, of Wellington\nDr John Mayhew, of Auckland\nas members of the Drug Free Sport New Zealand Board for terms of office from 1 August 2015 to 31 July 2018; and reappoints\nStephen Cottrell, of Auckland\nSarah Ulmer, onzm, of Cambridge\nas members of the Drug Free Sport New Zealand Board for terms of office from 1 June 2015 to 31 July 2017.\nGiven...",
-                "id": 35976177,
-                "title": "Appointments/reappointments to the Drug Free Sport New Zealand Board"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 8(1) of the Health and Disability Commissioner Act 1994 and section 28(1)(b) of the Crown Entities Act 2004, the Governor-General, on my recommendation as responsible Minister, has reappointed\nAnthony Murray Hill\nas Health and Disability Commissioner, for a term of three years commencing on 19 July 2015 and expiring on 18 July 2018.\nThis reappointment was made by way of written notice to the Health and Disability Commissioner (with a copy to the entity...",
-                "id": 35976167,
-                "title": "Reappointment of the Health and Disability Commissioner"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand hereby reappoints\nHon Justice John Gendall, cnzm, of Wellington\nas a member and chair of the Drug Free Sport New Zealand Board for a term of office from 1 August 2015 to 31 July 2018.\nGiven under the hand of the Governor-General this 25th day of May 2015.\nHon JONATHAN COLEMAN, Minister for Sport and Recreation.",
-                "id": 35976180,
-                "title": "Reappointment to the Drug Free Sport New Zealand Board"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004 and section 26 of the Broadcasting Act 1989, His Excellency the Governor-General of New Zealand hereby appoints\nPaula Mary Rose, qso, of Canterbury\nas a member of the Broadcasting Standards Authority for a term of office from 1 July 2015 to 30 April 2018.\nGiven under the hand of His Excellency the Governor-General of New Zealand, and issued on this 2nd day of June 2015.\nHon AMY ADAMS, Minister of Broadcasting.\n        ...",
-                "id": 35976187,
-                "title": "Appointment to the Broadcasting Standards Authority"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to clause 28(3)(a) of the Crown Entities Act 2004, the Minister for Economic Development and the Minister of Trade have been pleased to appoint\nCharlotte Walshe\nWayne Norrie\nas members for terms commencing 1 June 2015 and expiring on 30 April 2018; and reappoint\nKaren Fistonich\nRobin Hapi\nas members for third terms commencing 1 June 2015 and expiring on 30 April 2017; and\nCharles Finny\nas a member for a third term commencing 1 June 2015 and expiring on 30 April 2...",
-                "id": 35976171,
-                "title": "Appointments/reappointments to the New Zealand Trade and Enterprise Board"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to clause 28(3)(a) of the Crown Entities Act 2004, the Minister for Economic Development and the Minister of Trade have been pleased to reappoint\nJulie Christie\nKarl Wixon\nas members of the New Zealand Story Advisory Board for second terms commencing 1 June 2015 and expiring on 30 June 2018.\nDated at Wellington this 26th day of June 2015.\nHon STEVEN JOYCE, Minister for Economic Development.\nHon TIM GROSER, Minister of Trade.",
-                "id": 35976170,
-                "title": "Reappointments to the New Zealand Story Advisory Board"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28(1)(b) of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand has appointed\nWilliam Turnbull Stevens, of Auckland\nMark Thomas Todd, of Auckland\nas members of the Financial Markets Authority for terms of five years commencing on 8 June 2015 and expiring on 7 June 2020;\nCampbell Mackenzie Stuart, of Auckland\nas a member of the Financial Markets Authority for a term of three years commencing on 8 June 2015 and expiring on 7 J...",
-                "id": 35976181,
-                "title": "Appointments to the\u00a0Financial Markets Authority"
-            },
-            {
-                "date": [
-                    "2015-06-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 6P(8) and 6R(1) of the Conservation Act 1978, I, Nicky Wagner, Associate Minister of Conservation, hereby appoint the persons named hereunder to serve as members of the specified conservation boards for terms as outlined:\n\n\n\nStatus\nName\nLocation\nStart date\nEnd date\n\n\nNorthland\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\nReappointment\nAlan Martin\nWhangarei\n1 July 2015\n30 June 2018\n\n\nAppointment\nBronwyn Hunt\nKaitaia\n1 July 2015\n30 June 2018\n\n\n\u00a0\nAdrienne Tari\nRussell\n1 July 2015\n30 June ...",
-                "id": 35976186,
-                "title": "Appointments/reappointments to Conservation Boards"
-            },
-            {
-                "date": [
-                    "2015-06-04 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nSandy Clemett\nand appoints\nDr Louise Mainvil\nHikihiki Pihema\nas health practitioner members of the Dietitians Board for three-year terms of office commencing on the date of this notice\u2019s publication.\nDated at Wellington this 23rd\u00a0day of May\u00a02015.\nHon\u00a0Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 35976208,
-                "title": "Reappointment and Appointments to the Dietitians Board"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nAnn Connell\nBeverley Burns\nand appoints\nProfessor John Bushnell\nas health practitioner members of the New Zealand Psychologists Board, for three-year terms of office commencing on the date of this notification.\nDated at Auckland this 17th day of May 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 35976219,
-                "title": "Reappointments to the New Zealand Psychologists Board"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint\nAli\u2019imuamua (Sandra) Alofivae\nas a board member of Housing New Zealand Corporation from 7 July 2015 to 6 July 2018; and I appoint\nAlexander (Alick) Shaw\nas a board member of Housing New Zealand Corporation from 1 June 2015 to 31 May 2018; and I reappoint\nAdrienne Frances Young-Cooper\nas deputy chair and member of Housing New Zealand Corporation from 1 June 2015 to 31 May 2018, and I reappoint\nAndrew (Peter) ...",
-                "id": 35976221,
-                "title": "Appointments/reappointments to Housing New Zealand Corporation"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health has reappointed\nAssociate Professor Judith McAra-Couper \nas a health practitioner member of the Midwifery Council of New Zealand for a three-year term of office commencing on the date of this notice\u2019s publication; and\nBronwen Golder\nas a layperson member of the Midwifery Council of New Zealand for a three-year term of office commencing on the date of this notice\u2019s pub...",
-                "id": 35976225,
-                "title": "Reappointments to the Midwifery Council of New Zealand"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 35 and 36 of the State Sector Act 1988, the State Services Commissioner has reappointed\nMartin Thomas Harold Matthews\nas the Chief Executive and Secretary for Transport, Ministry of Transport, from 29 September 2015 to 30 June 2016, following acceptance by Her Excellency the Administrator of the Government in Council of the Commissioner\u2019s recommendation.\nDated at Wellington this 25th day of May 2015.\nIAIN RENNIE, State Services Commissioner.\n         ...",
-                "id": 35976227,
-                "title": "Reappointment of Public Service Chief Executive"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 35 and 36 of the State Sector Act 1988, the State Services Commissioner has reappointed\nMartyn John Dunne\nas the Chief Executive and Director-General for Primary Industries, Ministry for Primary Industries, from 18 November 2016 to 30 June 2018, following acceptance by Her Excellency the Administrator of the Government in Council of the Commissioner\u2019s recommendation.\nDated at Wellington this 25th day of May 2015.\nIAIN RENNIE, State Services Commission...",
-                "id": 35976228,
-                "title": "Reappointment of Public Service Chief Executive"
-            },
-            {
-                "date": [
-                    "2015-05-28 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 13(1) of the Policing Act 2008, the Governor-General has reappointed\nVivian George Herbert Rickard\nas the Deputy Commissioner of Police, New Zealand Police, from 3 June 2015 to 2 June 2018, on the Prime Minister\u2019s recommendation.\nDated at Wellington this 26th day of May 2015.\nIAIN RENNIE, State Services Commissioner.",
-                "id": 35976235,
-                "title": "Reappointment of Deputy Commissioner of Police"
-            },
-            {
-                "date": [
-                    "2015-05-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, the Minister for Social Development has appointed\nShirley Ikkala, of Auckland\nLisa-Marie King, of Tauranga\nLeisa Moorhouse, of Auckland\nto be members of the Social Workers Registration Board for a term of three years commencing on 15 May 2015.\nDated at Wellington this 13th day of May 2015.\nHon ANNE TOLLEY, Minister for Social Development.",
-                "id": 35976263,
-                "title": "Appointments to the\u00a0Social Workers Registration Board"
-            },
-            {
-                "date": [
-                    "2015-05-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, the Minister for Social Development has reappointed\nSara Georgeson, of Wellington\nToni Millar, of Auckland\nto be members of the Social Workers Registration Board for a further term of 18 months commencing on 15 May 2015;\nWilliam Pua, of Auckland\nto be a member of the the Social Workers Registration Board for a further term of 12 months commencing on 15 May 2015;\nShayne Walker, of Dunedin\nto be board chair and a member...",
-                "id": 35976264,
-                "title": "Reappointments to the\u00a0Social Workers Registration Board"
-            },
-            {
-                "date": [
-                    "2015-05-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, the Associate Minister for Social Development hereby reappoints\nJames Prescott, of Auckland\nas a member of the Board of Superu for a further term of 12 months; and appoints\nLeonard Cook, of Wellington\nHon Dame Tariana Turia, of Whanganui\nas members of the Board of Superu for a term of three years\ncommencing on 15 May 2015.\nDated at Wellington this 13th day of May 2015.\nHon JO GOODHEW, Associate Minister for Social Dev...",
-                "id": 35976266,
-                "title": "Reappointments/Appointments to the Families Commission Board (operating as Superu)"
-            },
-            {
-                "date": [
-                    "2015-05-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 35 and 36 of the State Sector Act 1988, the State Services Commissioner has reappointed\nRaymond Stanley Smith\nas the Chief Executive, Department of Corrections, from 25 December 2015 to 30 June 2019, following acceptance by the Governor-General in Council of the Commissioner\u2019s recommendation.\nDated at Wellington this 11th day of May 2015.\nIAIN RENNIE, State Services Commissioner.",
-                "id": 35976278,
-                "title": "Reappointment of Public Service Chief Executive"
-            },
-            {
-                "date": [
-                    "2015-05-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister for Health hereby reappoints\nLeigh Shaw\nas a health practitioner member for a three-year term of office; and appoints\nMatt Carroll\nas a health practitioner member for a three-year term of office\nof the Podiatrists Board of New Zealand commencing on the date of this notification.\nDated at Wellington this 7th day of May 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.\n         ...",
-                "id": 35976276,
-                "title": "Reappointment/appointment to the Podiatrists Board of New Zealand"
-            },
-            {
-                "date": [
-                    "2015-05-07 12:00:00 UTC"
-                ],
-                "description": "In accordance with section 122(7) of the Ngati Toa Rangatira Claims Settlement Act 2014, the Director-General of Conservation hereby publishes notice of the following appointments to the strategic advisory committee that was established by section 121 of the Act to perform functions in relation to the Kapiti Island reserve sites created by the Act.\nThe following appointments have been made by the Director-General of Conservation in accordance with section 122(3) of the Ac...",
-                "id": 35976311,
-                "title": "Appointment of Members to a Strategic Advisory Committee for Kapiti Island Reserve Sites"
-            },
-            {
-                "date": [
-                    "2015-05-07 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 77(c) and clause 1(2) of Schedule 1 of the Veterinarians Act 2005, I hereby appoint:\nLindsay Burton, of Cambridge, being a veterinarian\nas a member of the Veterinary Council of New Zealand for a term of three years from 8 May 2015.\nDated at Wellington this 1st day of May 2015.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976313,
-                "title": "Appointment to the Veterinary Council of New Zealand (Notice No. MPI 485)"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 64 and 65 of the Animal Welfare Act 1999, I hereby appoint\nGrant Henry Shackell\nto be chairperson of the National Animal Ethics Advisory Committee for a period commencing on 1 November 2015 and expiring on 31 October 2018.\nDated at Wellington this 13th day of April 2015.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976318,
-                "title": "Appointment of a Member to the National Animal Ethics Advisory Committee (Notice No. MPI 449)"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act, I reappoint\nJudith (Judy) Mary Kirk\nas presiding member of New Zealand Lotteries Commission from 1 May 2015 to 30 April 2017, and appoint\nTony David Mossman\nas deputy presiding member of New Zealand Lotteries Commission from 1 May 2015 to 30 April 2017, and appoint\nMark Herbert George Gilbert\nas a member of New Zealand Lotteries Commission from 1 May 2015 to 30 April 2018.\nDated at Wellington this 2nd day of April 2015.\nHo...",
-                "id": 35976327,
-                "title": "Appointments and Reappointment to New Zealand Lotteries Commission"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 58 and 59 of the Animal Welfare Act 1999, I hereby reappoint\nJohn Stephen Hellstr\u00f6m\nto be chairperson of the National Animal Welfare Advisory Committee for a period commencing on 1 November 2015 and expiring on 31 October 2018.\nDated at Wellington this 13th day of April 2015.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976317,
-                "title": "Reappointment of a Member to the National Animal Welfare Advisory Committee (Notice No. MPI 448)"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints:\nDr Allen Rex Fraser\nas a health practitioner member of the Medical Council of New Zealand, for a two-year term of office commencing on the date of this notification, and\nMarilyn Joy Quigley\nas a layperson member of the Medical Council of New Zealand, for a three-year term of office commencing on the date of this notification.\nDated at Wellington this 16th ...",
-                "id": 35976320,
-                "title": "Reappointments to the Medical Council of New Zealand"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 58 and 59 of the Animal Welfare Act 1999, I hereby appoint\nIain Elder Torrance\nto be a member of the National Animal Welfare Advisory Committee for a period commencing on the date of publication of this notice and expiring on 31 October 2017.\nDated at Wellington this 13th day of April 2015.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976319,
-                "title": "Appointment of a Member to the National Animal Welfare Advisory Committee (Notice No. MPI 468)"
-            },
-            {
-                "date": [
-                    "2015-04-30 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 5 of the Government Superannuation Fund Act 1956, I have reappointed current member\nPaul Cochrane\nas chair of the Government Superannuation Appeals Board for a term from 1 May 2015 up to 30 April 2018; and have reappointed current member\nDavid J. Swallow\nas member of the Government Superannuation Appeals Board for a term from 1 May 2015 up to 30 April 2018.\nDated at Wellington this 22nd day of April 2015.\nHon BILL ENGLISH, Minister of Finance.\n        ...",
-                "id": 35976325,
-                "title": "Reappointments to the Government Superannuation Appeals Board"
-            },
-            {
-                "date": [
-                    "2015-04-16 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nLeanne Te Karu\nas a health practitioner member of the Pharmacy Council for a three-year term of office commencing on the date of this notice\u2019s publication.\nDated at Wellington this 18th day of April 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 35976370,
-                "title": "Reappointment to the Pharmacy Council of New Zealand"
-            },
-            {
-                "date": [
-                    "2015-04-16 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28(1)(a) of the Crown Entities Act 2004, the Minister of Health has appointed\nRussell Wilson\nas deputy chairperson of the Nelson Marlborough District Health Board for a term of office commencing on 2 April 2015 and expiring on 4 December 2016.\nAlan Hinton\nas a member of the Nelson Marlborough District Health Board for a term of office commencing on 2 April 2015 and expiring on 4 December 2016.\nDated at Wellington this 18th day of April 2015.\nHon Dr JON...",
-                "id": 35976359,
-                "title": "Appointments to the Nelson Marlborough District Health Board"
-            },
-            {
-                "date": [
-                    "2015-04-02 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I am pleased to announce the appointments to Te Taura Whiri i te Reo M\u0101ori of\nHinurewa Poutu\nfor a term of three years commencing on 25 February 2015; and\nReka Broughton\nfor a term of six months commencing on 14 March 2015.\nDated at Wellington this 24th day of March 2015.\nHon TE URUROA FLAVELL, Minister for M\u0101ori Development.",
-                "id": 35976411,
-                "title": "Appointments to Te Taura Whiri i te Reo M\u0101ori"
-            },
-            {
-                "date": [
-                    "2015-04-02 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 57 of the Judicature Act 1908, His Excellency the Governor-General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nThe Honourable Helen Diana Winkelmann, Chief High Court Judge\nto be a Judge of the Court of Appeal of New Zealand, to take effect on 1 June 2015.\nDated at Wellington this 29th day of March 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
-                "id": 35976401,
-                "title": "Appointment of Judge of the Court of Appeal"
-            },
-            {
-                "date": [
-                    "2015-04-02 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 4A of the Judicature Act 1908, His Excellency the Governor-General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nThe Honourable Geoffrey John Venning, Judge of the High Court of New Zealand\nto be Chief High Court Judge, the commission to take effect on 1 June 2015.\nDated at Wellington this 29th day of March 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
-                "id": 35976402,
-                "title": "Appointment of Chief High Court Judge"
-            },
-            {
-                "date": [
-                    "2015-03-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 86 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints\nDr Sandy Bansal\nDr John Loveday\nDr Albert Taare\nas chiropractor health practitioner members of the Health Practitioners Disciplinary Tribunal for five-year terms of office commencing on the date of this notice\u2019s publication.\nDated at Wellington this 17th day of March 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 35976432,
-                "title": "Appointments to the\u00a0Health Practitioners Disciplinary Tribunal"
-            },
-            {
-                "date": [
-                    "2015-03-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 23 of the Supreme Court Act 2003, His Excellency the Governor-General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nThe Right Honourable Sir Peter Blanchard, knzm, Retired Judge of the Supreme Court of New Zealand\nan Acting Judge of the Supreme Court for the period commencing on 1 March 2015 and ending on 29 February 2016.\nDated at Wellington this 2nd day of March 2015.\nHon CHRISTOPHER FINLAYSON, Attorn...",
-                "id": 35976430,
-                "title": "Appointment of Acting Judge of the Supreme Court"
-            },
-            {
-                "date": [
-                    "2015-03-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 5 and 5B of the District Courts Act 1947 and section 354(3) of the Criminal Procedure Act 2011, His Excellency the Governor-General of New Zealand has been pleased to appoint\nAlisdair Simon Menzies, Acting District Court Judge\nto be a District Court Judge, to exercise civil and criminal jurisdiction within New Zealand, and to conduct jury trials pursuant to section 354(3) of the Criminal Procedure Act 2011, commencing on 17 March 2015.\nPursuant to sec...",
-                "id": 35976431,
-                "title": "Appointment of District Court Judges"
-            },
-            {
-                "date": [
-                    "2015-03-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 5A(4) of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appoint\nJohn Andrew Walker, District Court Judge of Wellington\nto be Acting Chief District Court Judge for the period commencing on 17 March 2015 and expiring on 12 April 2015.\nDated at Wellington this 16th day of March 2015.\nHon CHRISTOPHER FINLAYSON, qc, Attorney-General.",
-                "id": 35976437,
-                "title": "Acting Chief District Court Judge Appointed"
-            },
-            {
-                "date": [
-                    "2015-03-26 12:00:00 UTC"
-                ],
-                "description": "Under section 70(2) of the Reserves Act 1977, the Permissions/Statutory Land Management Manager of the Department of Conservation appoints\nRodger John Finlay, of Akaroa\nto be a trustee of the Christchurch (Riccarton) Racecourse Recreation Reserve in the place of John Austin, who resigned.\nDated at Christchurch this 18th day of March 2015.\nJOHN BLUE.\n(DOC PAR-12-02-09)",
-                "id": 35976454,
-                "title": "Appointment of a Trustee of the Christchurch (Riccarton) Racecourse Recreation Reserve"
-            },
-            {
-                "date": [
-                    "2015-03-19 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 103 of the Coroners Act 2006, I, Lieutenant General The Right Honourable Sir Jerry Mateparae, gnzm, qso, Governor-General of New Zealand has been pleased to appoint\nMarcus Alan John Elliott, barrister of Christchurch\nto be a coroner commencing on 23 March 2015.\nGiven under the hand of His Excellency the Governor-General, and issued this 10th day of March 2015.\nHon CHRISTOPHER FINLAYSON qc, Attorney-General.",
-                "id": 35976467,
-                "title": "Appointment of a Coroner"
-            },
-            {
-                "date": [
-                    "2015-03-19 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 5 of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appoint\nDeborah Ann Marshall, Chief Coroner of Auckland\nto be a District Court Judge, to exercise civil and criminal jurisdiction within New Zealand, commencing on 27 March 2015.\nDated at Wellington this 10th day of March 2015.\nHon CHRISTOPHER FINLAYSON, qc, Attorney-General.",
-                "id": 35976474,
-                "title": "Appointment of District Court Judge"
-            },
-            {
-                "date": [
-                    "2015-03-19 12:00:00 UTC"
+                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health has appointed\nTania Kemp\nDr Kathryn Holloway\nas health practitioner members of the Nursing Council of New Zealand for three-year terms of office commencing on the date of this notice\u2019s publication; and\nDr Conway Powell\nas a layperson member of the Nursing Council of New Zealand for a three-year term of office commencing on the date of this notice\u2019s publication.\nDated ...",
+                "fulltext": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health has appointed\nTania Kemp\nDr Kathryn Holloway\nas health practitioner members of the Nursing Council of New Zealand for three-year terms of office commencing on the date of this notice\u2019s publication; and\nDr Conway Powell\nas a layperson member of the Nursing Council of New Zealand for a three-year term of office commencing on the date of this notice\u2019s publication.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
+                "id": 36048688,
+                "subject": [
+                    "Departmental",
+                    "Health Practitioners Competence Assurance Act",
+                    "Appointments/reappointments",
+                    "Health"
                 ],
-                "description": "Pursuant to section 10A of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appoint\nSir David James Carruthers, knzm, retired District Court Judge\nto be an acting District Court Judge, to exercise civil and criminal jurisdiction in New Zealand at such place or places and for such period or periods only as the Chief District Court Judge may fix, pursuant to section 10A of the District Courts Act 1947, for a term commencin...",
-                "id": 35976476,
-                "title": "Appointment of Acting District Court Judge"
+                "title": "Appointments to the Nursing Council of New Zealand"
             },
             {
                 "date": [
-                    "2015-03-12 12:00:00 UTC"
+                    "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 207 of the Employment Relations Act 2000, His Excellency the Governor-General of New Zealand has been pleased to appoint\nAnthony David Ford, retired Employment Court Judge\nto be a temporary Judge of the Employment Court for a period of 12 months commencing on 9 May 2015 and expiring on 8 May 2016.\nDated at Wellington this 2nd day of March 2015.\nHon CHRISTOPHER FINLAYSON, qc, Attorney-General.",
-                "id": 35976491,
-                "title": "Appointment of\u00a0Temporary Employment Court Judge"
-            },
-            {
-                "date": [
-                    "2015-03-05 12:00:00 UTC"
-                ],
-                "description": "Under section 30(1) of the Reserves Act 1977, The Honourable Maggie Barry, onzm, as Minister of Conservation, appoints the following to be members of the Kaiteriteri Recreation Reserve Board for a term of five years from the date of publication of this notice\nChristopher Charles Hawkes\nas a member and chair; and\nTimothy King\nNgawaina Joy Shorrock\nRopata Taylor\nTerry Kreft\nMaria Fillary\nJan Hania, Director Conservation Partnerships, Department of Conservation\nas members.\nD...",
-                "id": 35976504,
-                "title": "Appointment of Members of the Kaiteriteri Recreation Reserve Board"
-            },
-            {
-                "date": [
-                    "2015-02-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 92 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, I, Chai Chuah, Acting Director-General of Health, issue the following notice, effective from 26 February 2015.\nN o t i c e\n1. This notice shall be read together with the Mental Health (Compulsory Assessment and Treatment) Act Notice 2013\u2014Appointment of Directors of Area Mental Health Services (\u201cthe principal notice\u201d)*.\n2. Schedule 1 to the principal notice is amended in respect of\n...",
-                "id": 35976529,
-                "title": "Mental Health (Compulsory Assessment and Treatment) Act 1992 Notice 2015\u2014Appointment of Directors of Area Mental Health Services"
-            },
-            {
-                "date": [
-                    "2015-02-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 105 of the Coroners Act 2006, His Excellency the Governor-General of New Zealand has been pleased to appoint:\nDeborah Ann Marshall\nto be the Chief Coroner for a term of eight years commencing on 13 February 2015.\nGiven under the hand of His Excellency the Governor-General and issued this 27th day of January 2015.\nHon SIMON BRIDGES, for Hon CHRISTOPHER FINLAYSON,\u00a0qc, Attorney-General.",
-                "id": 35976530,
-                "title": "Chief Coroner Appointed"
-            },
-            {
-                "date": [
-                    "2015-02-26 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 14(2) of the Public Records Act 2005, I hereby appoint to the Archives Council:\nAnna Blackman\nThomas Norcliffe\nDr Angela Wanhalla\nas members, each for a term commencing on 11 March 2015 and expiring on 10 March 2018.\nDated at Wellington this 23rd\u00a0day of February 2015.\nHon\u00a0PETER DUNNE, Minister of Internal Affairs.",
-                "id": 35976537,
-                "title": "Appointments to the Archives Council"
-            },
-            {
-                "date": [
-                    "2015-02-19 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 35 and 36 of the State Sector Act 1988, the State Services Commissioner has reappointed\nAndrew Lance Kibblewhite\nas the Chief Executive, Department of the Prime Minister and Cabinet from 25 June 2015 to 24 June 2018, following acceptance by the Governor-General in Council of the Commissioner\u2019s recommendation.\nDated at Wellington this 16th day of February 2015.\nIAIN RENNIE, State Services Commissioner.",
-                "id": 35976550,
-                "title": "Reappointment of Public Service Chief Executive"
-            },
-            {
-                "date": [
-                    "2015-02-19 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 10 and 5B of the District Courts Act 1947, section 354(3) of the Criminal Procedure Act 2011, and section 5(1) of the Family Courts Act 1980, His Excellency the Governor-General of New Zealand has been pleased to appoint\nMark James Callaghan, barrister of Christchurch\nto be an Acting District Court Judge, to exercise civil and criminal jurisdiction within New Zealand, to conduct jury trials and to exercise jurisdiction in the Family Courts for a perio...",
-                "id": 35976538,
-                "title": "Acting District Court Judges Appointed"
-            },
-            {
-                "date": [
-                    "2015-02-19 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28(1)(b) of the Crown Entities Act 2004, His Excellency the Governor\u2011General of New Zealand has appointed to the External Reporting Board\nKimberley Krista Crook, of Auckland\nFergus James Welsh, of Wellington\nas members for terms of five years commencing on 1 February 2015 and expiring on 31 January 2020; and\nSimon Alfred Carey, of Christchurch\nas a member for a term of four years commencing on 17 August 2015 and expiring on 16 August 2019.\nPursuant to ...",
-                "id": 35976555,
-                "title": "Appointments to the\u00a0External Reporting Board and Copyright Tribunal"
-            },
-            {
-                "date": [
-                    "2015-02-12 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 11A of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appoint\nStevan Lourie Cole, jp, of Auckland\nPhilippa Anne King, jp, of Auckland\nLeigh Catherine Langridge, of Auckland\nto be Community Magistrates, to carry out such functions and powers as are conferred on Community Magistrates, in such Courts at such times as the Chief District Court Judge may from time to time direct under section 11C of the D...",
-                "id": 35976588,
-                "title": "Community Magistrates Appointed"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 49 of the Chartered Professional Engineers of New Zealand Act 2002, His Excellency the Governor-General of New Zealand has been pleased to appoint\nChristopher Harrison\nJane Nees\nas members of the Chartered Professional Engineers Council for terms of one year\u00a0commencing on 18 December 2014.\nDated at Wellington this 18th day of December 2014.\nHon Dr NICK SMITH, Minister for Building and Housing.",
-                "id": 35976646,
-                "title": "Appointments\u00a0to the Chartered Professional Engineers Council"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 3(2) of the Engineering Associates Act 1961, the Minister for Building and Housing hereby reappoints\nDr Robin Dunlop\nas a member and chair; and\u00a0\nGlynn Cowley\nDeborah Cranko\nRaymond Grant\nGraeme Wells\nas members; and appoints\nVictor Gradowski\nKaren Deborah Illenberger (Debbie Hogan)\nErnest Hurley\nAnthony (Tony) McKee\nas members\nfor two-year terms commencing on 14 December 2014.\nAll the above are to the Engineering Associates Registration Board.\nDated th...",
-                "id": 35976647,
-                "title": "Reappointments/appointments to the Engineering Associates Registration Board"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 150 of the Electricity Act 1992, I am pleased to appoint\nQuentin Varcoe\nand reappoint\nMichael Macklin\nNeil McLeod\nWilliam Waterworth\nas members of the Electrical Workers Registration Board for terms of one year commencing\u00a0on 17 December 2014.\nDated at Wellington this 17th day of December 2014.\nHon Dr NICK SMITH, Minister for Building and Housing.",
-                "id": 35976648,
-                "title": "Appointment/reappointments to the Electrical Workers Registration Board"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 52 of the Registered Architects Act 2005, His Excellency the Governor-General of New Zealand has been pleased to appoint\nLouise Wright\nas a member of the New Zealand Registered Architects Board for a term of one year commencing on 18 December 2014.\nDated at Wellington this 18th day of December 2014.\nHon Dr NICK SMITH, Minister for Building and Housing.",
-                "id": 35976649,
-                "title": "Appointment to the New Zealand Registered Architects Board"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to Regulation 19(1) of the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000, the Minister for Social Housing has been pleased to appoint\nTu\u2019inukutavake Afeaki\nGavin Cook\nas members\u00a0of the State Housing Appeals Authority for a term of one year commencing on 8 December 2014.\nDated at Wellington this 8th day of December 2014.\nHon PAULA BENNETT, Minister for Social Housing.",
-                "id": 35976650,
-                "title": "Appointments\u00a0to the State Housing Appeals Authority"
-            },
-            {
-                "date": [
-                    "2015-01-15 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 344(2) of the Building Act 2004, I am pleased to announce the appointments of\nDr Robin Dunlop\nDianne Johnson\nas members of the Building Practitioners Board for terms of one year commencing on 18 December 2014.\nDated at Wellington this 18th day of December 2014.\nHon Dr NICK SMITH, Minister for Building and Housing.",
-                "id": 35976645,
-                "title": "Appointments\u00a0to the Building Practitioners Board"
-            },
-            {
-                "date": [
-                    "2015-01-08 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health reappoints\nCatherine Byrne\nand\nProfessor Jo Walton\nand appoints\nJoanne Hopson\nas health practitioner members of the Nursing Council, for terms of office commencing on the date of this notice\u2019s publication and ending on 30 September 2017.\nDated at Auckland this 17th day of December 2014.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
-                "id": 35976678,
-                "title": "Appointment and Reappointments to the Nursing Council"
-            },
-            {
-                "date": [
-                    "2015-01-08 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 54 of the Reserve Bank of New Zealand Act 1989, I reappoint\nNeil Clayton Quigley\nas a director of the Reserve Bank of New Zealand from 1 February 2015 to 31 January 2020; and reappoint\nKerrin Margaret Vautier\nas a director of the Reserve Bank of New Zealand from 9 February 2015 to 8 February 2020.\nDated at Wellington this 11th day of December 2014.\nHon BILL ENGLISH, Minister of Finance.",
-                "id": 35976668,
-                "title": "Reappointments to the Reserve Bank of New Zealand"
-            },
-            {
-                "date": [
-                    "2014-12-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint to the Arts Council of New Zealand Toi Aotearoa Board\nMichael Moynahan, of Wellington and Auckland\nas a member for a term of office from 15 December 2014 until 30 November 2017.\nDated at Wellington this 10th day of December 2014.\nHon MAGGIE BARRY onzm, Minister for Arts, Culture and Heritage.",
-                "id": 35976725,
-                "title": "Appointment to the Arts Council of New Zealand Toi Aotearoa Board"
-            },
-            {
-                "date": [
-                    "2014-12-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 58 and 59 of the Animal Welfare Act 1999, I hereby reappoint\nPenelope Mary Fisher\nto be a member of the National Animal Welfare Advisory Committee for a period expiring on 31 October 2017.\nDated at Wellington this 8th day of December 2014.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976718,
-                "title": "Reappointment of a Member to the National Animal Welfare Advisory Committee (Notice No. MPI 408)"
-            },
-            {
-                "date": [
-                    "2014-12-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 58 and 59 of the Animal Welfare Act 1999, I hereby reappoint\nJulie Catherine Wagner\nto be a member of the National Animal Welfare Advisory Committee for a period commencing on the date of publication of this notice and expiring on 31 October 2017.\nDated at Wellington this 8th day of December 2014.\nHon NATHAN GUY, Minister for Primary Industries.",
-                "id": 35976720,
-                "title": "Appointment of a Member to the National Animal Welfare Advisory Committee (Notice No. MPI 409)"
-            },
-            {
-                "date": [
-                    "2014-12-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to clause 1(2), Schedule 5 of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand has appointed to the Financial Markets Authority:\nMurray David Jack, of Wellington\nas the chairperson for a term commencing on 1 December 2014 and expiring on 30 April 2019.\nDated at Wellington this 20th day of November 2014.\nHon PAUL GOLDSMITH, Minister of Commerce and Consumer Affairs.",
-                "id": 35976738,
-                "title": "Appointment to the Financial Markets Authority"
-            },
-            {
-                "date": [
-                    "2014-12-11 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28(1)(a) of the Crown Entities Act 2004, the Minister of Energy and Resources has reappointed\nJanet Carson\nas a member of the Energy Efficiency and Conservation Authority Board, as established under the Energy Efficiency and Conservation Authority Act 2000, for a term of\u00a0three years commencing\u00a0on 5 December 2014.\nDated at Wellington this 5th day of December 2014.\nHon SIMON BRIDGES, Minister of Energy and Resources.",
-                "id": 35976741,
-                "title": "Reappointment to the Energy Efficiency and Conservation Authority Board"
-            },
-            {
-                "date": [
-                    "2014-12-04 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 92 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, I, Chai Chuah, Acting Director-General of Health, issue the following notice, effective from 30 November 2014.\nN o t i c e\n1. This notice shall be read together with the Mental Health (Compulsory Assessment and Treatment) Act Notice 2013\u2014Appointment of Directors of Area Mental Health Services (\u201cthe principal notice\u201d)*.\n2. Schedule 1 to the principal notice is amended in respect of\n...",
-                "id": 35976759,
-                "title": "Mental Health (Compulsory Assessment and Treatment) Act 1992 Notice 2014\u2014Appointment of Directors of Area Mental Health Services"
-            },
-            {
-                "date": [
-                    "2014-11-27 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 92 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, I, Don Gray, Acting Director-General of Health, issue the following notice.\nN o t i c e\n1. This notice shall be read together with the Mental Health (Compulsory Assessment and Treatment) Act Notice 2013\u2014Appointment of Directors of Area Mental Health Services (\u201cthe principal notice\u201d)*.\n2. Schedule 1 to the principal notice is amended in respect of\n\u201cMidCentral DHB\u201d\nby omitting the na...",
-                "id": 35976773,
-                "title": "Mental Health (Compulsary Assessment and Treatment Act) 1992 Notice 2014\u2014Appointment of Directors of Area Mental Health Services"
-            },
-            {
-                "date": [
-                    "2014-11-13 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 10A of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appoint\nAllan Neil MacLean, retiring District Court Judge\nto be an Acting District Court Judge, to exercise civil and criminal jurisdiction in New Zealand at such place or places and for such period or periods only as the Chief District Court Judge may fix, pursuant to section 10A of the District Courts Act 1947, for a term of two years commencin...",
-                "id": 35976823,
-                "title": "Acting District Court Judge Appointed"
-            },
-            {
-                "date": [
-                    "2014-11-06 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 5 and 5B of the District Courts Act 1947, and section 354(3) of the Criminal Procedure Act 2011, His Excellency the Governor-General of New Zealand has been pleased to appoint\nKevin James Glubb, Acting District Court Judge\nto be a District Court Judge, to exercise civil and criminal jurisdiction within New Zealand, and to conduct jury trials pursuant to section 354(3) of the Criminal Procedure Act 2011, commencing on 29 October 2014.\nPursuant to secti...",
-                "id": 35976837,
-                "title": "District Court Judges Appointed"
-            },
-            {
-                "date": [
-                    "2014-11-06 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 10A of the District Courts Act 1947, and section 7 of the Family Courts Act 1980, His Excellency the Governor-General of New Zealand has been pleased to appoint\nPeter Francis Boshier, retired District Court Judge\nto be an Acting District Court Judge, to exercise civil and criminal jurisdiction in New Zealand at such place or places and for such period or periods only as the Chief District Court Judge may fix, pursuant to section 10A of the District Cou...",
-                "id": 35976838,
-                "title": "Acting District Court Judge Appointed"
-            },
-            {
-                "date": [
-                    "2014-10-30 12:00:00 UTC"
-                ],
-                "description": "Under section 70(2) of the Reserves Act 1977, the Permissions / Statutory Land Management Manager of the Department of Conservation appoints\nMark William Weaver, of Geraldine\nto be a trustee of the Geraldine Racecourse Recreation Reserve in the place of\nBrian Fawdray\nwho resigned.\nDated at Christchurch this 22nd day of October 2014.\nJOHN BLUE.\n(DOC PAR-12-02-09)",
-                "id": 35976849,
-                "title": "Appointment of a Trustee of the Geraldine Racecourse Recreation Reserve"
-            },
-            {
-                "date": [
-                    "2014-10-16 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 10A of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appointRoy Wade, retiring District Court Judgeto be an Acting District Court Judge, to exercise civil and criminal jurisdiction in New Zealand, and to exercise the criminal jurisdiction of the District Courts, under section 354(3) of the Criminal Procedure Act 2011, at such place or places and for such period or periods only as the Chief District...",
-                "id": 35976876,
-                "title": "Acting District Court Judge Appointed"
-            },
-            {
-                "date": [
-                    "2014-09-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 282(2) of the Lawyers and Conveyancers Act 2006, His Excellency the Governor-General of New Zealand has been pleased to reappointChristine Mary Grice, barrister and solicitor, of HamiltonKaren Louise Clark, Queen's Counsel, of WellingtonSandra Joan Callanan, barrister and solicitor, of Aucklandas members of the New Zealand Council of Legal Education for a further term of three years commencing on 29 September 2014 to 28 September 2017.Dated at Wellingt...",
-                "id": 35976944,
-                "title": "Reappointments to New Zealand Council of Legal Education"
-            },
-            {
-                "date": [
-                    "2014-09-18 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 6P(4A) and 6R(1) of the Conservation Act 1987, I, Nick Smith, Minister of Conservation, hereby appointJames Brown, of MaraetaiNathan Kennedy, of WaihiGlenn Wilcox, of Pukekoheto be members of the Auckland Conservation Board for a term commencing on 1 October 2014 and expiring on 30 June 2017.Dated at Wellington this 9th day of September 2014.HON DR NICK SMITH, Minister of Conservation.",
-                "id": 35976940,
-                "title": "Appointments to the Auckland Conservation Board"
-            },
-            {
-                "date": [
-                    "2014-09-04 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 5A(4) of the District Courts Act 1947, His Excellency the Governor-General of New Zealand has been pleased to appointJane Hewat Lovell-Smith, District Court Judge of Aucklandto be Acting Chief District Court Judge for the period commencing on 10 December 2014 and expiring on 1 February 2015.Dated at Wellington this 22nd day of August 2014.HON CHRISTOPHER FINLAYSON, QC, Attorney-General.",
-                "id": 35977000,
-                "title": "Acting Chief District Court Judge Appointed"
-            },
-            {
-                "date": [
-                    "2014-08-28 12:00:00 UTC"
-                ],
-                "description": "In the notice with the above heading published in theNew Zealand Gazette, 21 August 2014, No. 96, page 2716, for the appointment of Richard Merrifield and the reappointments of Sue Simmons, Craig O'Connell and Ian Rowe, please replace\"commencing on 8 August 2014\"with\"commencing on 15 August 2014\".Dated at Wellington this 11th day of August 2014.HON DR NICK SMITH, Minister for Building and Construction.",
-                "id": 35977018,
-                "title": "Corrigendum-Appointments/reappointments to the Plumbers, Gasfitters, and Drainlayers Board"
-            },
-            {
-                "date": [
-                    "2014-08-21 12:00:00 UTC"
-                ],
-                "description": "Pursuant to Part 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006, I hereby appoint to the Plumbers, Gasfitters, and Drainlayers Board Richard Merrifieldfor a term of one year commencing on 8 August 2014; and Colleen Uptonfor a term of one year commencing on 1 March 2015; and reappoint Sue Simonsfor a term commencing on 8 August 2014 and finishing on 28 February 2015; and  Craig O'Connell Ian Rowefor one-year terms commencing on 8 August 2014; and  Nicholas Fleckne...",
-                "id": 35977047,
-                "title": "Appointments/reappointments to the Plumbers, Gasfitters, and Drainlayers Board"
-            },
-            {
-                "date": [
-                    "2014-08-21 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint Brian Rocheas a member of the New Zealand Antarctic Institute Board, as established under the New Zealand Antarctic Institute Act 1996, for a term commencing on 31 August 2014 and expiring on 1 July 2015.Dated this Tuesday, the 19th day of August 2014.HON MURRAY MCCULLY, Minister of Foreign Affairs.",
-                "id": 35977024,
-                "title": "Appointment to the New Zealand Antarctic Institute Board"
-            },
-            {
-                "date": [
-                    "2014-08-14 12:00:00 UTC"
-                ],
-                "description": "Notice is hereby given that, pursuant to section 3 of the Valuers Act 1948, I have reappointedPhillip Allen Curnow, of HamiltonKenneth Ross Taylor, of Alexandraas members of the Valuers Registration Board for a term of three years commencing on 14 August 2014 or for such lesser time as the board remains in existence.The reappointment of Phillip Allen Curnow is made on the recommendation of the New Zealand Institute of Valuers pursuant to section 3(2)(b) of the said Act.Da...",
-                "id": 35977070,
-                "title": "Reappointments to the Valuers Registration Board"
-            },
-            {
-                "date": [
-                    "2014-08-14 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints Kim Ngarimuas a layperson member of the Medical Council of New Zealand for a 12-month term of office commencing on the date of this notification.Dated at Wellington this 8th day of August 2014.HON TONY RYALL, Minister of Health.",
-                "id": 35977071,
-                "title": "Appointment to the Medical Council of New Zealand"
-            },
-            {
-                "date": [
-                    "2014-08-14 12:00:00 UTC"
+                "description": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nNicholas Richard William Davidson, one of Her Majesty\u2019s Counsel, of Christchurch\na Judge of the High Court.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
+                "fulltext": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nNicholas Richard William Davidson, one of Her Majesty\u2019s Counsel, of Christchurch\na Judge of the High Court.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
+                "id": 36048707,
+                "subject": [
+                    "Departmental",
+                    "Judicature Act",
+                    "Appointments/reappointments",
+                    "Crown Law"
                 ],
-                "description": "Pursuant to section 199F of the Local Government Act 2002, I appointStephen John AbleyMark John ApeldoornHelen Adele AtkinsSimon John BerryAlan Norman BickersFraser Owen CampbellAndrew David Charles CarrPaul Hoskins CooneyAlan Dormer Fatu Brent FuatavaiHarriet Barbara FraserBrian Burkitt HasellDavid Leonard HutchisonSusan Margaret JacksonSteven Rex KerrDavid Samuel McLernonPhilip James MilneGraham NielsenPamela Sue PetersGary Martin RaeCindy Elizabeth RobinsonGregory Thom...",
-                "id": 35977073,
-                "title": "Appointments to the Register of Development Contributions Commissioners"
+                "title": "Appointment of Judge of the High Court"
             },
             {
                 "date": [
-                    "2014-08-07 12:00:00 UTC"
+                    "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints Miriana Stephens Megan Campbellas layperson members of the Psychotherapists Board for 12-month terms of office commencing on the date of this notice's publication.Dated at Wellington this 1st day of August 2014.HON TONY RYALL, Minister of Health.",
-                "id": 35977089,
-                "title": "Appointments to the Psychotherapists Board"
-            },
-            {
-                "date": [
-                    "2014-08-07 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 86 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints Kenneth Johnstonas deputy chairperson of the Health Practitioners Disciplinary Tribunal for a 12-month term of office commencing on the date of this notice's publication.Dated at Wellington this 1st day of August 2014.HON TONY RYALL, Minister of Health.",
-                "id": 35977090,
-                "title": "Appointment to the Health Practitioners Disciplinary Tribunal"
-            },
-            {
-                "date": [
-                    "2014-08-07 12:00:00 UTC"
-                ],
-                "description": "Pursuant to sections 8-11 of the War Pensions Act 1954, I appointDavid McGregor as chair of the War Pensions Appeals Board from 1 August 2014 to 31 July 2017; and Rebecca Ewert as deputy chair of the War Pensions Appeals Board from 1 August 2014 to 31 July 2017; and Dr Peter Robinson Dr Don Stewart as members of the War Pensions Appeals Board from 1 August 2014 to 31 July 2017.Dated at Wellington this 25th day of July 2014.HON MICHAEL WOODHOUSE, Minister of Veterans' Affa...",
-                "id": 35977079,
-                "title": "Appointments to the War Pensions Appeals Board"
-            },
-            {
-                "date": [
-                    "2014-07-31 12:00:00 UTC"
-                ],
-                "description": "Pursuant to section 105 of the Financial Advisers Act 2008, the Minister of Commerce has reappointedDavid John Douglas Macdonald, of Wellingtonas a member of the Disciplinary Committee, established under the Financial Advisers Act 2008, for a term of one year commencing on 22 August 2014 and expiring on21 August 2015.Dated at Wellington this 27th day of June 2014.HON CRAIG FOSS, Minister of Commerce.",
-                "id": 35977109,
-                "title": "Reappointment to the Disciplinary Committee"
-            },
-            {
-                "date": [
-                    "2014-07-31 12:00:00 UTC"
+                "description": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nRebecca Anne Edwards, barrister and solicitor, of Auckland\na Judge of the High Court, the Commission to take effect from 1 August 2015.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
+                "fulltext": "Pursuant to section 4 of the Judicature Act 1908, His Excellency the Governor\u2011General of New Zealand, in the name and on behalf of Her Majesty The Queen, has been pleased to appoint\nRebecca Anne Edwards, barrister and solicitor, of Auckland\na Judge of the High Court, the Commission to take effect from 1 August 2015.\nDated at Wellington this 18th day of June 2015.\nHon CHRISTOPHER FINLAYSON, Attorney-General.",
+                "id": 36048708,
+                "subject": [
+                    "Departmental",
+                    "Judicature Act",
+                    "Appointments/reappointments",
+                    "Crown Law"
                 ],
-                "description": "Pursuant to section 28(1)(b) of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand has reappointedPatrick John Duignan, of Wellingtonas a member of the Commerce Commission for a term of one year commencing on 1 July 2014 and expiring on30 June 2015. Dated at Wellington this 18th day of June 2014.HON CRAIG FOSS, Minister of Commerce.",
-                "id": 35977110,
-                "title": "Reappointment to the Commerce Commission"
+                "title": "Appointment of Judge of the High Court"
             },
             {
                 "date": [
-                    "2014-07-31 12:00:00 UTC"
+                    "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 28(1)(b) and clause 1(2) of Schedule 5 of the Crown Entities Act 2004, His Excellency the Governor-General of New Zealand has reappointed  Michele June Embling, of Aucklandas a member, and appointed her as the deputy chairperson, of the External Reporting Board for a term of one year commencing on 17 August 2014 and expiring on 16 August 2015; and Simon Alfred Carey, of Christchurchas a member of the External Reporting Board for a term of one year comm...",
-                "id": 35977111,
-                "title": "Reappointments to the External Reporting Board"
-            },
-            {
-                "date": [
-                    "2014-07-24 12:00:00 UTC"
+                "description": "Pursuant to section 28(1)(a) of the Crown Entities Act 2004 and section 8(1) of the Health Research Council Act 1990, the Minister of Health has appointed\nDr Suzanne Georgina Pitama\nas a member of the Health Research Commission for a three-year term of office commencing on 22 June 2015.\nDated at Wellington this 16th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
+                "fulltext": "Pursuant to section 28(1)(a) of the Crown Entities Act 2004 and section 8(1) of the Health Research Council Act 1990, the Minister of Health has appointed\nDr Suzanne Georgina Pitama\nas a member of the Health Research Commission for a three-year term of office commencing on 22 June 2015.\nDated at Wellington this 16th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
+                "id": 36048709,
+                "subject": [
+                    "Departmental",
+                    "Crown Entities Act",
+                    "Appointments/reappointments",
+                    "Health"
                 ],
-                "description": "Pursuant to section 28 of the Crown Entities Act 2004, I appoint Lyn Huei Min Lim Michelle Elisa van Gaalenas members of the Public Trust Board from 23 July 2014 to 30 June 2015.Dated at Wellington this 14th day of July 2014.HON JUDITH COLLINS, Minister of Justice.",
-                "id": 35977122,
-                "title": "Appointments to the Public Trust Board"
+                "title": "Appointment to the Health Research Council"
             },
             {
                 "date": [
-                    "2014-07-24 12:00:00 UTC"
+                    "2015-06-25 12:00:00 UTC"
                 ],
-                "description": "Pursuant to section 92 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, I, Chai Chuah, Acting Director-General of Health, issue the following notice.N o t i c e1. This notice shall be read together with the Mental Health (Compulsory Assessment and Treatment) Act Notice 2013-Appointment of Directors of Area Mental Health Services (\"the principal notice\")*.2. Schedule 1 to the principal notice is amended in respect of \"Tairawhiti DHB\"by adding the name a...",
-                "id": 35977146,
-                "title": "Mental Health (Compulsory Assessment and Treatment) Act 1992 Notice 2014-Appointment of Directors of Area Mental Health Services"
-            },
-            {
-                "date": [
-                    "2014-07-24 12:00:00 UTC"
+                "description": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints to the Medical Sciences Council of New Zealand\nLynne Morgan\nas a health practitioner member for a three-year term of office commencing on the date of this notification; and\nMichelle Wanwimolruk\nas a layperson member for a three-year term of office commencing on the date of this notification.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLE...",
+                "fulltext": "Pursuant to section 120 of the Health Practitioners Competence Assurance Act 2003, the Minister of Health appoints to the Medical Sciences Council of New Zealand\nLynne Morgan\nas a health practitioner member for a three-year term of office commencing on the date of this notification; and\nMichelle Wanwimolruk\nas a layperson member for a three-year term of office commencing on the date of this notification.\nDated at Wellington this 15th day of June 2015.\nHon Dr JONATHAN COLEMAN, Minister of Health.",
+                "id": 36048693,
+                "subject": [
+                    "Departmental",
+                    "Health Practitioners Competence Assurance Act",
+                    "Appointments/reappointments",
+                    "Health"
                 ],
-                "description": "Under the Reserves Act 1977, the Minister of Conservation appointsKemp Matthew DrydenJay Ariki RerekuraTe Kenehi Robert MairHamish Crichton Sanson McDouallMartin John VisserMariana Te Hei WaitaiRangi Marehu Willsto be a Reserve Board to control and manage the land described in the Schedule as a reserve for historic purposes for a term expiring on 20 February 2017. Wellington Land District-Wanganui DistrictScheduleMoutoa Gardens Historic ReserveAreaha Description0.9105 Par...",
-                "id": 35950145,
-                "title": "Board Appointed to Control and Manage an Historic Reserve"
+                "title": "Appointments to the Medical Sciences Council of New Zealand"
             }
         ]
     }
