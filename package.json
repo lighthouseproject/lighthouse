@@ -11,7 +11,7 @@
     "start:watchScripts": "watchify scripts/app.js -v -t babelify --outfile public/scripts/app.js",
     "start:watch": "npm run start:watchStyles && npm run start:watchScripts",
     "start:live": "livereload public/",
-    "start": "npm run start:watchStyles && npm run start:serve && npm run start:live"
+    "start": "npm run start:watchStyles & npm run start:watchScripts & npm run start:serve & npm run start:live"
   },
   "author": "",
   "license": "MIT",
@@ -20,7 +20,10 @@
     "babel": "^5.6.14",
     "babelify": "^6.1.2",
     "express": "^4.13.0",
+    "fluxxor": "^1.6.0",
+    "fuzzy": "^0.1.0",
     "livereload": "^0.3.7",
+    "lodash": "^3.10.0",
     "node-sass": "^3.2.0",
     "react": "^0.13.3",
     "watchify": "^3.2.3"

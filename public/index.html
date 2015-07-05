@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>#TODO</title>
+    <title>The Lighthouse Project</title>
     <link rel="stylesheet" type="text/css" href='/styles/main.css' />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
     <meta name="google" value="notranslate">
@@ -11,7 +11,75 @@
 
   </head>
   <body>
-    <div id='body-wrapper'></div>
+    <div style='width: 100%; height: 130px'>
+      <div style='width: 35%; float: left; padding: 10px 10px 0 10px'>
+        <img src="/images/lighthouse-logo.svg" alt="Lighthouse Logo">
+      </div>
+      <div style='width: 65%; float: left; padding: 0 20px 20px 10px'>
+        <p>
+          <b>New Zealand: Government Appointments and Political Connections</b>
+          <br/>
+          Are government appointments and honours given as rewards for political donations and candidates? We took appointments and honours data and matched it against selected donations and candidacy data, and this is what we found. </p>
+      </div>
+    </div>
+    <div id='body-wrapper'>
+      <div class='loader-wrapper'>
+        <div class="loader">
+          <svg class="circular">
+              <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div style='width: 100%; padding-bottom: 20px; padding-left: 10px'>
+      <p><b>Caveats:</b></p>
+      <p>
+        This is a proof-of-concept to show what can be discovered, but it's far from complete. We only have access to 2014 candidates donation returns, thanks to the NZ Herald's crowdsourcing efforts. Data for previous elections are stuck in scanned PDFs of handwritten forms. Appointments and honours from the NZ Gazette are in an unstructured format, and extract with regex, sweat and tears.
+        <br/>
+        <br/>
+        The real value of this project is the creation of a comprehensive and structured dataset of political connections and beneficiaries of government appointments, which will be an invaluable resource for investigative journalists.
+      </p>
+      <p><b>References:</b></p>
+      <p>
+        <a href='https://gazette.govt.nz/notice/id/2014-vr578'>https://gazette.govt.nz - New Year Honours 2014</a>
+        <br/>
+        <a href='https://gazette.govt.nz/notice/id/2015-vr3289'>https://gazette.govt.nz - Queen's Birthday Honours 2015</a>
+        <br/>
+        <a href='http://www.nzherald.co.nz/data-blog/news/article.cfm?c_id=1503710&objectid=11412326'>http://www.nzherald.co.nz - Money in politics</a>
+        <br/>
+        <a href='http://www.elections.org.nz/parties-candidates/registered-political-parties/party-donations/donations-exceeding-30000/returns'>http://www.elections.org.nz - Returns of Party Donations Exceeding $30,000</a>
+        <br/>
+        <a href='http://www.elections.org.nz/parties-and-candidates/registered-political-parties-0/party-donations/immediate-return-donation-0-0'>http://www.elections.org.nz - Returns of Party Donations Exceeding $20,000</a>
+        <br/>
+        <a href='http://www.electionresults.govt.nz/'>http://www.electionresults.govt.nz - New Zealand Election Results</a>
+        <br/>
+        <a href='http://www.digitalnz.org/records?i[primary_collection]=New+Zealand+Gazette'>http://www.digitalnz.org - New Zealand Gazette (Appointments/Reappointments)</a>
+        <br/>
+        <a href='https://www.business.govt.nz'>https://www.business.govt.nz - New Zealand Companies Data (Used to find shareholders/directors from company donations)</a>
+        <br/>
+      </p>
+      <p><b>Created by:</b></p>
+      <p>
+        <a href='https://twitter.com/keith_ng'>@keith_ng - Keith Ng</a>
+        <br/>
+        <a href='https://twitter.com/br3nda'>@br3nda - Brenda Wallace</a>
+        <br/>
+        <a href='https://twitter.com/timclicks'>@timclicks - Tim McNamara</a>
+        <br/>
+        <a href='https://twitter.com/nanz140'>@nanz140 - Nanz</a>
+        <br/>
+        <a href='https://twitter.com/prototypealex'>@prototypealex - Alex Gibson</a>
+        <br/><br/>
+        The lighthouse project was created as a part of GovHack New Zealand 2015, in our nation's capital, Wellington.
+      </p>
+      <p><b>License:</b></p>
+      <p>
+        The data used in this visualisation is owned by it the sources referenced above, anything else created by us; assets, logos and code, is licensed under a Creative Commons Attribution 4.0 International License.
+        <br/>
+        <br/>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+      </p>
+    </div>
   </body>
 
   <script src="/scripts/app.js"></script>

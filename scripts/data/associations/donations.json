@@ -1,0 +1,5115 @@
+[
+  {
+    "electorate": "Selwyn",
+    "party": "National Party",
+    "amount": "15000",
+    "candidate": "ADAMS, Amy",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Selwyn",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "ADAMS, Amy",
+    "donor": {
+      "clean_name": "douglas catley",
+      "name": "Douglas Catley (D H Catley Trust)"
+    }
+  },
+  {
+    "electorate": "Waitaki",
+    "party": "Labour Party",
+    "amount": "5383.73",
+    "candidate": "ALEXANDER, Glenda",
+    "donor": {
+      "clean_name": "nordmeyer trust",
+      "name": "Nordmeyer Trust"
+    }
+  },
+  {
+    "electorate": "Waitaki",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ALEXANDER, Glenda",
+    "donor": {
+      "clean_name": "nz union",
+      "name": "NZ Meatworkers Union"
+    }
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "Labour Party",
+    "amount": "2940",
+    "candidate": "ALLEN, Cliff",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Hamilton East Labour Electorate Committee)"
+    }
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ALLEN, Cliff",
+    "donor": {
+      "clean_name": "j broughan",
+      "name": "J & K Broughan"
+    }
+  },
+  {
+    "electorate": "Ōhāriu",
+    "party": "Labour Party",
+    "amount": "2536.37",
+    "candidate": "ANDERSEN, Virginia",
+    "donor": {
+      "clean_name": "labour auction",
+      "name": "Labour Ohariu Electorate - Auction"
+    }
+  },
+  {
+    "electorate": "Ōhāriu",
+    "party": "Labour Party",
+    "amount": "2250",
+    "candidate": "ANDERSEN, Virginia",
+    "donor": {
+      "clean_name": "labour dinner",
+      "name": "Labour Ohariu Electorate - Dinner"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "5200",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "john reynolds",
+      "name": "John Reynolds"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "simon mcarley",
+      "name": "Simon McArley"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "3500",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "patrick reynolds",
+      "name": "Patrick Reynolds"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "3000",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "m.j. todd",
+      "name": "M.J. Todd"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "nicholas wells",
+      "name": "Nicholas Wells"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ARDERN, Jacinda",
+    "donor": {
+      "clean_name": "wilson smith",
+      "name": "Wilson Smith"
+    }
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "Conservative",
+    "amount": "550",
+    "candidate": "BAKER, Leighton",
+    "donor": {
+      "clean_name": "a nuttall",
+      "name": "A Nuttall"
+    }
+  },
+  {
+    "electorate": "Manukau East",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "BAKSHI, Kanwal",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ilam",
+    "party": "Internet Party",
+    "amount": "17768.29",
+    "candidate": "BALLANTINE, Beverley",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Clutha-Southland",
+    "party": "National Party",
+    "amount": "24654",
+    "candidate": "BARCLAY, Todd",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Clutha-Southland",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "BARCLAY, Todd",
+    "donor": {
+      "clean_name": "ian tulloch",
+      "name": "Ian & Annett Tulloch"
+    }
+  },
+  {
+    "electorate": "North Shore",
+    "party": "National Party",
+    "amount": "14854.07",
+    "candidate": "BARRY, Maggie",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hunua",
+    "party": "National Party",
+    "amount": "7500",
+    "candidate": "BAYLY, Andrew",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hunua",
+    "party": "National Party",
+    "amount": "7500",
+    "candidate": "BAYLY, Andrew",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hunua",
+    "party": "National Party",
+    "amount": "4500",
+    "candidate": "BAYLY, Andrew",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Maungakiekie",
+    "party": "Labour Party",
+    "amount": "1600",
+    "candidate": "BEAUMONT, Carol",
+    "donor": {
+      "clean_name": "r gallagher",
+      "name": "R R Gallagher"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BENNETT, David",
+    "amount": "10000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "david bennett",
+          "name": "David Alister BENNETT"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "david bennett",
+          "name": "David Alister BENNETT"
+        },
+        {
+          "clean_name": "garth o'brien",
+          "name": "Garth William O'BRIEN"
+        },
+        {
+          "clean_name": "david bennett",
+          "name": "David Alister BENNETT"
+        }
+      ],
+      "name": "Agincourt Farms Ltd"
+    },
+    "electorate": "Hamilton East",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "BENNETT, David",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "BENNETT, David",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "National Party",
+    "amount": "2500",
+    "candidate": "BENNETT, David",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "National Party",
+    "amount": "13028",
+    "candidate": "BENNETT, Paula",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "National Party",
+    "amount": "3630",
+    "candidate": "BENNETT, Paula",
+    "donor": {
+      "clean_name": "rob prince",
+      "name": "Rob Prince"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "BENNETT, Paula",
+    "donor": {
+      "clean_name": "priscilla ip",
+      "name": "Priscilla Ip"
+    }
+  },
+  {
+    "electorate": "Hutt South",
+    "party": "National Party",
+    "amount": "26419",
+    "candidate": "BISHOP, Chris",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "Conservative",
+    "amount": "10000",
+    "candidate": "BLAIR, Callum",
+    "donor": {
+      "clean_name": "conservative zealand",
+      "name": "Conservative Party of New Zealand"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BORROWS, Chester",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Whanganui",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Whanganui",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "BORROWS, Chester",
+    "donor": {
+      "clean_name": "dwa bennett",
+      "name": "DWA Bennett"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BORROWS, Chester",
+    "amount": "3000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "neil walker",
+          "name": "Neil William WALKER"
+        },
+        {
+          "clean_name": "helen walker",
+          "name": "Helen Ray WALKER"
+        },
+        {
+          "clean_name": "mathew walker",
+          "name": "Mathew James WALKER"
+        },
+        {
+          "clean_name": "simon walker",
+          "name": "Simon Peter WALKER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "neil walker",
+          "name": "Neil William WALKER"
+        },
+        {
+          "clean_name": "helen walker",
+          "name": "Helen Ray WALKER"
+        }
+      ],
+      "name": "Nukuhau Carbon Limited"
+    },
+    "electorate": "Whanganui",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Whanganui",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "BORROWS, Chester",
+    "donor": {
+      "clean_name": "neil walker",
+      "name": "Neil Walker"
+    }
+  },
+  {
+    "electorate": "Whanganui",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "BORROWS, Chester",
+    "donor": {
+      "clean_name": "rw bartley",
+      "name": "RW Bartley"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BRIDGES, Simon",
+    "amount": "11500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "william lochhead",
+          "name": "William James LOCHHEAD"
+        },
+        {
+          "clean_name": "cheryl adams",
+          "name": "Cheryl Maree ADAMS"
+        },
+        {
+          "clean_name": "bruce varner",
+          "name": "Bruce Doyle VARNER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "richard peterson",
+          "name": "Richard Dale PETERSON"
+        }
+      ],
+      "name": "Carrus Corporation"
+    },
+    "electorate": "Tauranga",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BRIDGES, Simon",
+    "amount": "8500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "william lochhead",
+          "name": "William James LOCHHEAD"
+        },
+        {
+          "clean_name": "cheryl adams",
+          "name": "Cheryl Maree ADAMS"
+        },
+        {
+          "clean_name": "bruce varner",
+          "name": "Bruce Doyle VARNER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "paul adams",
+          "name": "Paul Hunter ADAMS"
+        },
+        {
+          "clean_name": "richard peterson",
+          "name": "Richard Dale PETERSON"
+        }
+      ],
+      "name": "Carrus Corporation"
+    },
+    "electorate": "Tauranga",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "BRIDGES, Simon",
+    "donor": {
+      "clean_name": "d waddell",
+      "name": "D Waddell"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "National Party",
+    "amount": "3900",
+    "candidate": "BRIDGES, Simon",
+    "donor": {
+      "clean_name": "puran singh",
+      "name": "Puran Singh"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "BRIDGES, Simon",
+    "donor": {
+      "clean_name": "eves realty",
+      "name": "Eves Realty"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "BRIDGES, Simon",
+    "donor": {
+      "clean_name": "j ltd",
+      "name": "J Swap Ltd"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "BRIDGES, Simon",
+    "amount": "2500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "narider hayre",
+          "name": "Narider Singh HAYRE"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "narider hayre",
+          "name": "Narider Singh HAYRE"
+        }
+      ],
+      "name": "Sunny Hort Management"
+    },
+    "electorate": "Tauranga",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Helensville",
+    "party": "Independent",
+    "amount": "2000",
+    "candidate": "BRIGHT, Penny",
+    "donor": {
+      "clean_name": "lisa prager",
+      "name": "Lisa Prager"
+    }
+  },
+  {
+    "electorate": "Manurewa",
+    "party": "National Party",
+    "amount": "14721.47",
+    "candidate": "BROWN, Simeon",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ilam",
+    "party": "National Party",
+    "amount": "15000",
+    "candidate": "BROWNLEE, Gerry",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ōhāriu",
+    "party": "Conservative",
+    "amount": "8684.04",
+    "candidate": "BRUNNER, Michael",
+    "donor": {
+      "clean_name": "conservative hq",
+      "name": "Conservative Party HQ"
+    }
+  },
+  {
+    "electorate": "Te Tai Tonga",
+    "party": "Māori Party",
+    "amount": "9700",
+    "candidate": "BUTTON, Ngaire",
+    "donor": {
+      "clean_name": "ngaire button",
+      "name": "Ngaire Button"
+    }
+  },
+  {
+    "electorate": "Te Tai Tonga",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "BUTTON, Ngaire",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party"
+    }
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "Internet Party",
+    "amount": "13073.57",
+    "candidate": "CALVER, Ray",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Kaikōura",
+    "party": "New Zealand First Party",
+    "amount": "2000",
+    "candidate": "CAMPBELL, Steve",
+    "donor": {
+      "clean_name": "y parker",
+      "name": "Y Parker"
+    }
+  },
+  {
+    "electorate": "Dunedin North",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "CLARK, David",
+    "donor": {
+      "clean_name": "nz union",
+      "name": "NZ Meatworkers Union"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "CLENDON, David",
+    "amount": "2500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "brad windust",
+          "name": "Brad WINDUST"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "brad windust",
+          "name": "Brad WINDUST"
+        }
+      ],
+      "name": "BEECO Ltd"
+    },
+    "electorate": "Northland",
+    "party": "Green Party"
+  },
+  {
+    "electorate": "Northland",
+    "party": "Green Party",
+    "amount": "2500",
+    "candidate": "CLENDON, David",
+    "donor": {
+      "clean_name": "brad windust",
+      "name": "Brad Windust"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "Green Party",
+    "amount": "5000",
+    "candidate": "COATES, Barry",
+    "donor": {
+      "clean_name": "phillip mills",
+      "name": "Phillip Mills"
+    }
+  },
+  {
+    "electorate": "Rotorua",
+    "party": "Labour Party",
+    "amount": "3750",
+    "candidate": "COFFEY, Tamati Gerald",
+    "donor": {
+      "clean_name": "johan morreau",
+      "name": "Johan Morreau"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "National Party",
+    "amount": "15047.19",
+    "candidate": "COLEMAN, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Papakura",
+    "party": "National Party",
+    "amount": "19180.59",
+    "candidate": "COLLINS, Judith",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "COSGROVE, Clayton",
+    "amount": "10000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "lynda moore",
+          "name": "Lynda Katrina MOORE"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "quantum limited",
+          "name": "QUANTUM SOLUTIONS LIMITED"
+        }
+      ],
+      "name": "Resource Finance Limited "
+    },
+    "electorate": "Waimakariri",
+    "party": "Labour Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "COSGROVE, Clayton",
+    "amount": "7000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        },
+        {
+          "clean_name": "michael dormer",
+          "name": "Michael DORMER"
+        },
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        }
+      ],
+      "name": "Dormer Construction Limited "
+    },
+    "electorate": "Waimakariri",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "Labour Party",
+    "amount": "6000",
+    "candidate": "COSGROVE, Clayton",
+    "donor": {
+      "clean_name": "labour donation",
+      "name": "Labour Party - Waimakariri Electorate Committee - contribution as part of Clayton Cosgrove Supporters Club donation"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "Labour Party",
+    "amount": "1536.89",
+    "candidate": "COSGROVE, Clayton",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (New Zealand Labour Party Head Office)"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "COSGROVE, Clayton",
+    "amount": "681.38",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "douglas mcalpine",
+          "name": "Douglas David MCALPINE"
+        },
+        {
+          "clean_name": "marion archer",
+          "name": "Marion Gwenneth ARCHER"
+        },
+        {
+          "clean_name": "andrew davidson",
+          "name": "Andrew Forbes DAVIDSON"
+        },
+        {
+          "clean_name": "grant mcalpine",
+          "name": "Grant Douglas MCALPINE"
+        },
+        {
+          "clean_name": "john duncan",
+          "name": "John Maxwell DUNCAN"
+        },
+        {
+          "clean_name": "peter crighton",
+          "name": "Peter Douglas CRIGHTON"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "mcalpines limited",
+          "name": "MCALPINES LIMITED"
+        }
+      ],
+      "name": "McAlpines Limited"
+    },
+    "electorate": "Waimakariri",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Pakuranga",
+    "party": "Conservative",
+    "amount": "3194.57",
+    "candidate": "CRAIG, Andrew",
+    "donor": {
+      "clean_name": "conservative party",
+      "name": "Conservative Party"
+    }
+  },
+  {
+    "electorate": "East Coast Bays",
+    "party": "Conservative",
+    "amount": "20010.5",
+    "candidate": "CRAIG, Colin",
+    "donor": {
+      "clean_name": "conservative hq",
+      "name": "Conservative Party HQ"
+    }
+  },
+  {
+    "electorate": "Clutha-Southland",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "CRAIG, Liz",
+    "donor": {
+      "clean_name": "nz union",
+      "name": "NZ Meatworkers Union"
+    }
+  },
+  {
+    "electorate": "New Lynn",
+    "party": "Labour Party",
+    "amount": "2020",
+    "candidate": "CUNLIFFE, David",
+    "donor": {
+      "clean_name": "di nash",
+      "name": "Dr Di Nash"
+    }
+  },
+  {
+    "electorate": "New Lynn",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "CUNLIFFE, David",
+    "donor": {
+      "clean_name": "olga beckett",
+      "name": "Mrs Olga Beckett"
+    }
+  },
+  {
+    "electorate": "Bay of Plenty",
+    "party": "Conservative",
+    "amount": "492.42",
+    "candidate": "CUNLIFFE, Deborah",
+    "donor": {
+      "clean_name": "conservative hq",
+      "name": "Conservative Party HQ"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Labour Party",
+    "amount": "15400",
+    "candidate": "CURRAN, Clare",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Dunedin South Branch"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "CURRAN, Clare",
+    "donor": {
+      "clean_name": "otago union",
+      "name": "Otago Southland Meat Workers Union"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Internet Party",
+    "amount": "24970.43",
+    "candidate": "CURRIN, David",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Ilam",
+    "party": "Labour Party",
+    "amount": "4719.29",
+    "candidate": "DANN, James Macbeth",
+    "donor": {
+      "clean_name": "phantom billstickers",
+      "name": "Phantom Billstickers"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "DAVIS, Kelvin",
+    "donor": {
+      "clean_name": "waipareira whanau",
+      "name": "Waipareira Whanau"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "DAVIS, Kelvin",
+    "donor": {
+      "clean_name": "mj cullen",
+      "name": "MJ Cullen"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "DAVIS, Kelvin",
+    "donor": {
+      "clean_name": "sc close",
+      "name": "SC Close"
+    }
+  },
+  {
+    "electorate": "Invercargill",
+    "party": "Democrats for Social Credit",
+    "amount": "5113.26",
+    "candidate": "DE RUYTER, Stephnie",
+    "donor": {
+      "clean_name": "democrats credit",
+      "name": "Democrats for Social Credit"
+    }
+  },
+  {
+    "electorate": "Waitaki",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "DEAN, Jacqui",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Waitaki",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "DEAN, Jacqui",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "5500",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "andrew tilby",
+      "name": "Andrew Tilby"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOOCEY, Matt",
+    "amount": "3000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        },
+        {
+          "clean_name": "michael dormer",
+          "name": "Michael DORMER"
+        },
+        {
+          "clean_name": "peter dormer",
+          "name": "Peter Edmund DORMER"
+        }
+      ],
+      "name": "Dormer Construction Ltd"
+    },
+    "electorate": "Waimakariri",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "holland trust",
+      "name": "Holland Memorial Trust"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "2350",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "jamie thomas",
+      "name": "Jamie Thomas"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "d carter",
+      "name": "D C Carter"
+    }
+  },
+  {
+    "electorate": "Waimakariri",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "DOOCEY, Matt",
+    "donor": {
+      "clean_name": "robin brown",
+      "name": "Robin & Vicky Brown"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOOCEY, Matt",
+    "amount": "2000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "john douglas-clifford",
+          "name": "John Charles DOUGLAS-CLIFFORD"
+        },
+        {
+          "clean_name": "peter douglas-clifford",
+          "name": "Peter George DOUGLAS-CLIFFORD"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "john douglas-clifford",
+          "name": "John Charles DOUGLAS-CLIFFORD"
+        },
+        {
+          "clean_name": "peter douglas-clifford",
+          "name": "Peter George DOUGLAS-CLIFFORD"
+        }
+      ],
+      "name": "STONYHURST PARTNERSHIP LIMITED"
+    },
+    "electorate": "Waimakariri",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOOCEY, Matt",
+    "amount": "2000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "murray sutherland",
+          "name": "Murray Ross SUTHERLAND"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "sutherland limited",
+          "name": "SUTHERLAND AND COMPANY LIMITED"
+        }
+      ],
+      "name": "Sutherland Timber"
+    },
+    "electorate": "Waimakariri",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOWIE, Sarah",
+    "amount": "10000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "scott o'donnell",
+          "name": "Scott O'DONNELL"
+        },
+        {
+          "clean_name": "jocelyn o'donnell",
+          "name": "Jocelyn Jane O'DONNELL"
+        },
+        {
+          "clean_name": "robert williams",
+          "name": "Robert Rex WILLIAMS"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "scott o'donnell",
+          "name": "Scott O'DONNELL"
+        },
+        {
+          "clean_name": "shona richardson",
+          "name": "Shona Lydia RICHARDSON"
+        },
+        {
+          "clean_name": "robert williams",
+          "name": "Robert Rex WILLIAMS"
+        },
+        {
+          "clean_name": "jocelyn o'donnell",
+          "name": "Jocelyn Jane O'DONNELL"
+        }
+      ],
+      "name": "HW Richardson Group"
+    },
+    "electorate": "Invercargill",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOWIE, Sarah",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Invercargill",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "DOWIE, Sarah",
+    "amount": "2500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "kenneth richardson",
+          "name": "Kenneth George RICHARDSON"
+        },
+        {
+          "clean_name": "ross richardson",
+          "name": "Ross Craig RICHARDSON"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "k limited",
+          "name": "K G RICHARDSON AND SONS LIMITED"
+        }
+      ],
+      "name": "Niagara Sawmilling"
+    },
+    "electorate": "Invercargill",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Invercargill",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "DOWIE, Sarah",
+    "donor": {
+      "clean_name": "aj baird",
+      "name": "AJ Baird"
+    }
+  },
+  {
+    "electorate": "Mana",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "FAAFOI, Kris",
+    "donor": {
+      "clean_name": "k douglas",
+      "name": "K G Douglas"
+    }
+  },
+  {
+    "electorate": "Palmerston North",
+    "party": "Internet Party",
+    "amount": "14038.29",
+    "candidate": "FARVID, Pani",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "National Party",
+    "amount": "1992.8",
+    "candidate": "FINLAYSON, Christopher",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Waiariki",
+    "party": "Māori Party",
+    "amount": "29000",
+    "candidate": "FLAVELL, Te Ururoa James",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party "
+    }
+  },
+  {
+    "electorate": "Waiariki",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "FLAVELL, Te Ururoa James",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "National Party",
+    "amount": "11057.82",
+    "candidate": "FOSS, Craig",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "National Party",
+    "amount": "6673.32",
+    "candidate": "FOSS, Craig",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "National Party",
+    "amount": "4155.73",
+    "candidate": "FOSS, Craig",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "National Party",
+    "amount": "956.85",
+    "candidate": "FOSS, Craig",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "National Party",
+    "amount": "172.5",
+    "candidate": "FOSS, Craig",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Wellington Central",
+    "party": "National Party",
+    "amount": "10700.24",
+    "candidate": "FOSTER-BELL, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "Māori Party",
+    "amount": "17000",
+    "candidate": "FOX, Marama",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party"
+    }
+  },
+  {
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "Māori Party",
+    "amount": "2900",
+    "candidate": "FOX, Marama",
+    "donor": {
+      "clean_name": "maori fundraising",
+      "name": "Maori Party Fundraising"
+    }
+  },
+  {
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "Māori Party",
+    "amount": "1775",
+    "candidate": "FOX, Marama",
+    "donor": {
+      "clean_name": "maori donations",
+      "name": "Maori Party Branch Donations"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Green Party",
+    "amount": "2000",
+    "candidate": "GENTER, Julie Anne",
+    "donor": {
+      "clean_name": "stuart donovan",
+      "name": "Stuart Donovan"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "Labour Party",
+    "amount": "10000",
+    "candidate": "GOFF, Phil",
+    "donor": {
+      "clean_name": "lim chhour",
+      "name": "Lim Nam Chhour"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "GOFF, Phil",
+    "donor": {
+      "clean_name": "kevin chiv",
+      "name": "Kevin Chiv"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "National Party",
+    "amount": "3588",
+    "candidate": "GOLDSMITH, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "GOLDSMITH, Paul",
+    "amount": "3000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "timothy cook",
+          "name": "Timothy John COOK"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "collins limited",
+          "name": "COLLINS ASSET MANAGEMENT INVESTMENTS LIMITED"
+        }
+      ],
+      "name": "Team McMillan Ltd"
+    },
+    "electorate": "Epsom",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Epsom",
+    "party": "National Party",
+    "amount": "915.4",
+    "candidate": "GOLDSMITH, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "National Party",
+    "amount": "621.61",
+    "candidate": "GOLDSMITH, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "National Party",
+    "amount": "411.13",
+    "candidate": "GOLDSMITH, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "National Party",
+    "amount": "267.38",
+    "candidate": "GOLDSMITH, Paul",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rangitata",
+    "party": "National Party",
+    "amount": "34417.92",
+    "candidate": "GOODHEW, Jo",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Waikato",
+    "party": "Labour Party",
+    "amount": "5078.9",
+    "candidate": "GREER, Christine",
+    "donor": {
+      "clean_name": "dianne yates",
+      "name": "Dianne Yates"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "ACT New Zealand",
+    "amount": "2500",
+    "candidate": "GRIEVE, Robin",
+    "donor": {
+      "clean_name": "j boscawen",
+      "name": "J S Boscawen"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "ACT New Zealand",
+    "amount": "2000",
+    "candidate": "GRIEVE, Robin",
+    "donor": {
+      "clean_name": "g grieve",
+      "name": "G Bell Grieve"
+    }
+  },
+  {
+    "electorate": "New Lynn",
+    "party": "National Party",
+    "amount": "18672.28",
+    "candidate": "GROSER, Tim",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ōtaki",
+    "party": "National Party",
+    "amount": "22992.97",
+    "candidate": "GUY, Nathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "MANA Movement",
+    "amount": "60000",
+    "candidate": "HARAWIRA, Hone",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "MANA Movement",
+    "amount": "25000",
+    "candidate": "HARAWIRA, Hone",
+    "donor": {
+      "clean_name": "mana tokerau",
+      "name": "Mana Tai Tokerau"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "MANA Movement",
+    "amount": "20000",
+    "candidate": "HARAWIRA, Hone",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Helensville",
+    "party": "Internet Party",
+    "amount": "6610.52",
+    "candidate": "HARRE, Laila",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "Green Party",
+    "amount": "2000",
+    "candidate": "HART, John",
+    "donor": {
+      "clean_name": "chris hackney",
+      "name": "Chris Hackney"
+    }
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "National Party",
+    "amount": "6749.99",
+    "candidate": "HAYES, Jo",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Labour Party",
+    "amount": "11000",
+    "candidate": "HENARE, Peeni",
+    "donor": {
+      "clean_name": "robert henare",
+      "name": "Robert Henare"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "Conservative",
+    "amount": "597.12",
+    "candidate": "HESLOP, Nathaniel",
+    "donor": {
+      "clean_name": "conservative hq",
+      "name": "Conservative Party HQ"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "Conservative",
+    "amount": "11039.39",
+    "candidate": "HEYNS, Anton",
+    "donor": {
+      "clean_name": "conservative party",
+      "name": "Conservative Party"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Labour Party",
+    "amount": "4389.56",
+    "candidate": "HILLS, Richard",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Northcote Labour Electorate Committee)"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Labour Party",
+    "amount": "2068.19",
+    "candidate": "HILLS, Richard",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Northcote Labour Electorate Committee)"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Labour Party",
+    "amount": "1000",
+    "candidate": "HILLS, Richard",
+    "donor": {
+      "clean_name": "ann hartley",
+      "name": "Ann Hartley"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Labour Party",
+    "amount": "400",
+    "candidate": "HILLS, Richard",
+    "donor": {
+      "clean_name": "ann hartley",
+      "name": "Ann Hartley"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Labour Party",
+    "amount": "150",
+    "candidate": "HILLS, Richard",
+    "donor": {
+      "clean_name": "ann hartley",
+      "name": "Ann Hartley"
+    }
+  },
+  {
+    "electorate": "Northcote",
+    "party": "Internet Party",
+    "amount": "17935.79",
+    "candidate": "HO, Gil",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Rimutaka",
+    "party": "National Party",
+    "amount": "20363.88",
+    "candidate": "HOLDEN, Lewis",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rimutaka",
+    "party": "National Party",
+    "amount": "3148.57",
+    "candidate": "HOLDEN, Lewis",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ōhāriu",
+    "party": "National Party",
+    "amount": "10800",
+    "candidate": "HUDSON, Brett",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Ōhāriu",
+    "party": "National Party",
+    "amount": "500",
+    "candidate": "HUDSON, Brett",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "Labour Party",
+    "amount": "6552.9",
+    "candidate": "JONES, Rachel",
+    "donor": {
+      "clean_name": "susan vize",
+      "name": "Susan Vize"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Māori Party",
+    "amount": "4000",
+    "candidate": "KAIPO, Anaru",
+    "donor": {
+      "clean_name": "charles joe",
+      "name": "Charles Joe"
+    }
+  },
+  {
+    "electorate": "Taranaki-King Country",
+    "party": "Internet Party",
+    "amount": "13241.09",
+    "candidate": "KEINZLEY, Grant",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Helensville",
+    "party": "National Party",
+    "amount": "10325.95",
+    "candidate": "KEY, John",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "KEY, John",
+    "amount": "10000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "christopher huljich",
+          "name": "Christopher Peter HULJICH"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "huljich limited",
+          "name": "HULJICH FAMILY TRUST NOMINEES LIMITED"
+        },
+        {
+          "clean_name": "msh trust",
+          "name": "MSH Australia Pty Ltd as Trustee for MSH Australia Trust"
+        }
+      ],
+      "name": "Christopher & Banks Private Equity Limited"
+    },
+    "electorate": "Helensville",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "7451.3",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "4209",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "2820.5",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "2500",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "craig emery",
+      "name": "Craig Emery"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "2320",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "doug catley",
+      "name": "Doug Catley"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "steven yung",
+      "name": "Steven Yung"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "1385.2",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "Labour Party",
+    "amount": "367.6",
+    "candidate": "KING, Annette",
+    "donor": {
+      "clean_name": "peter noble",
+      "name": "Peter Noble"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "KING, Les",
+    "amount": "4500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "bruce gemmell",
+          "name": "Bruce Donald GEMMELL"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "bruce gemmell",
+          "name": "Bruce Donald GEMMELL"
+        }
+      ],
+      "name": "Quintech Ltd"
+    },
+    "electorate": "Whangarei",
+    "party": "Focus New Zealand"
+  },
+  {
+    "electorate": "Port Hills",
+    "party": "National Party",
+    "amount": "20962.83",
+    "candidate": "KORAKO, Nuk",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Independent",
+    "amount": "1500",
+    "candidate": "KRUGER, Susanna Susara",
+    "donor": {
+      "clean_name": "h. kane",
+      "name": "H. Kane"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Independent",
+    "amount": "1500",
+    "candidate": "KRUGER, Susanna Susara",
+    "donor": {
+      "clean_name": "m hart",
+      "name": "M Hart"
+    }
+  },
+  {
+    "electorate": "Taranaki-King Country",
+    "party": "National Party",
+    "amount": "20000",
+    "candidate": "KURIGER, Barbara",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Mt Albert",
+    "party": "National Party",
+    "amount": "13600",
+    "candidate": "LEE, Melissa",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Palmerston North",
+    "party": "Labour Party",
+    "amount": "8208.7",
+    "candidate": "LEES-GALLOWAY, Iain",
+    "donor": {
+      "clean_name": "spinning services",
+      "name": "Spinning Planet Website Services"
+    }
+  },
+  {
+    "electorate": "Palmerston North",
+    "party": "Labour Party",
+    "amount": "6000",
+    "candidate": "LEES-GALLOWAY, Iain",
+    "donor": {
+      "clean_name": "wurc wurc",
+      "name": "WURC"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Democrats for Social Credit",
+    "amount": "4000",
+    "candidate": "LEITCH, Chris",
+    "donor": {
+      "clean_name": "democrats credit",
+      "name": "Democrats for Social Credit"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Democrats for Social Credit",
+    "amount": "2500",
+    "candidate": "LEITCH, Chris",
+    "donor": {
+      "clean_name": "democrats credit",
+      "name": "Democrats for Social Credit"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Democrats for Social Credit",
+    "amount": "2000",
+    "candidate": "LEITCH, Chris",
+    "donor": {
+      "clean_name": "democrats credit",
+      "name": "Democrats for Social Credit"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "Democrats for Social Credit",
+    "amount": "1000",
+    "candidate": "LEITCH, Chris",
+    "donor": {
+      "clean_name": "gloria bruni",
+      "name": "Gloria Bruni"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Internet Party",
+    "amount": "9272.58",
+    "candidate": "LEPINE, Andrew",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "Labour Party",
+    "amount": "5904.1",
+    "candidate": "LITTLE, Andrew",
+    "donor": {
+      "clean_name": "andrew little",
+      "name": "Andrew Little"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Labour Party",
+    "amount": "9500",
+    "candidate": "LORCK, Anna",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Tukituki Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Labour Party",
+    "amount": "9000",
+    "candidate": "LORCK, Anna",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Tukituki Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Labour Party",
+    "amount": "7500",
+    "candidate": "LORCK, Anna",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Tukituki Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Labour Party",
+    "amount": "4000",
+    "candidate": "LORCK, Anna",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Tukituki Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Labour Party",
+    "amount": "2313.5",
+    "candidate": "LORCK, Anna",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Tukituki Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Maungakiekie",
+    "party": "National Party",
+    "amount": "34150",
+    "candidate": "LOTU-IIGA, Peseta Sam",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "National Party",
+    "amount": "15000",
+    "candidate": "MACINDOE, Tim",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "MACINDOE, Tim",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "National Party",
+    "amount": "2500",
+    "candidate": "MACINDOE, Tim",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "National Party",
+    "amount": "500",
+    "candidate": "MACINDOE, Tim",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hutt South",
+    "party": "Labour Party",
+    "amount": "6000",
+    "candidate": "MALLARD, Trevor",
+    "donor": {
+      "clean_name": "sir jones",
+      "name": "Sir Robert Jones"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "MALLARD, Trevor",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "greg loveridge",
+          "name": "Greg Riaka LOVERIDGE"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "greg loveridge",
+          "name": "Greg Riaka LOVERIDGE"
+        },
+        {
+          "clean_name": "greg loveridge",
+          "name": "Greg Riaka LOVERIDGE"
+        },
+        {
+          "clean_name": "gyw limited",
+          "name": "GYW TRUSTEES (LOVERIDGE) LIMITED"
+        }
+      ],
+      "name": "GRL Holdings"
+    },
+    "electorate": "Hutt South",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Botany",
+    "party": "Labour Party",
+    "amount": "7700",
+    "candidate": "MAMEDOV, Tofik",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Botany LEC)"
+    }
+  },
+  {
+    "electorate": "Botany",
+    "party": "Labour Party",
+    "amount": "6562.5",
+    "candidate": "MAMEDOV, Tofik",
+    "donor": {
+      "clean_name": "tarun ahuja",
+      "name": "Tarun Ahuja"
+    }
+  },
+  {
+    "electorate": "Botany",
+    "party": "Labour Party",
+    "amount": "5730",
+    "candidate": "MAMEDOV, Tofik",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Botany LEC)"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "MARK, Ron",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "matthew kelly",
+          "name": "Matthew Joseph KELLY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "matthew kelly",
+          "name": "Matthew Joseph KELLY"
+        }
+      ],
+      "name": "Fishing Supplies Limited"
+    },
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "MARK, Ron",
+    "amount": "3000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "diane fraser",
+          "name": "Diane Patricia FRASER"
+        },
+        {
+          "clean_name": "mariette d'cunha",
+          "name": "Mariette D'CUNHA"
+        },
+        {
+          "clean_name": "melanie mark-shadbolt",
+          "name": "Melanie MARK-SHADBOLT"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "melanie mark-shadbolt",
+          "name": "Melanie MARK-SHADBOLT"
+        },
+        {
+          "clean_name": "diane fraser",
+          "name": "Diane Patricia FRASER"
+        },
+        {
+          "clean_name": "mariette d'cunha",
+          "name": "Mariette D'CUNHA"
+        }
+      ],
+      "name": "Threefold Foundation"
+    },
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party"
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party",
+    "amount": "2500",
+    "candidate": "MARK, Ron",
+    "donor": {
+      "clean_name": "ck lyon",
+      "name": "CK Lyon"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party",
+    "amount": "2500",
+    "candidate": "MARK, Ron",
+    "donor": {
+      "clean_name": "ck lyon",
+      "name": "CK Lyon"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party",
+    "amount": "2000",
+    "candidate": "MARK, Ron",
+    "donor": {
+      "clean_name": "b henry",
+      "name": "B P Henry"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party",
+    "amount": "1000",
+    "candidate": "MARK, Ron",
+    "donor": {
+      "clean_name": "alleon trust",
+      "name": "Alleon Trust (Alan and Leonie Eastergaard)"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "MARK, Ron",
+    "amount": "500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "william workman",
+          "name": "William David WORKMAN"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "william workman",
+          "name": "William David WORKMAN"
+        }
+      ],
+      "name": "Workman Enterprises Limited"
+    },
+    "electorate": "Wairarapa",
+    "party": "New Zealand First Party"
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "Green Party",
+    "amount": "1738.15",
+    "candidate": "MATHERS, Mojo",
+    "donor": {
+      "clean_name": "don murray",
+      "name": "Don Murray"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "Labour Party",
+    "amount": "10500",
+    "candidate": "McANULTY, Kieran",
+    "donor": {
+      "clean_name": "justine thorpe",
+      "name": "Justine Thorpe (Fundraiser organiser)"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "McANULTY, Kieran",
+    "amount": "3200",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "rebekah farr",
+          "name": "Rebekah Helen FARR"
+        },
+        {
+          "clean_name": "martin hunter",
+          "name": "Martin John Minty HUNTER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "rebekah farr",
+          "name": "Rebekah Helen FARR"
+        },
+        {
+          "clean_name": "martin hunter",
+          "name": "Martin John Minty HUNTER"
+        }
+      ],
+      "name": "Nectarine Limited"
+    },
+    "electorate": "Wairarapa",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "Labour Party",
+    "amount": "2500",
+    "candidate": "McANULTY, Kieran",
+    "donor": {
+      "clean_name": "central union",
+      "name": "Central Amalgamated Workers Union"
+    }
+  },
+  {
+    "electorate": "Ōtaki",
+    "party": "Labour Party",
+    "amount": "27050.4",
+    "candidate": "McCANN, Rob",
+    "donor": {
+      "clean_name": "labour lec",
+      "name": "Labour - Otaki LEC"
+    }
+  },
+  {
+    "electorate": "Ōtaki",
+    "party": "Labour Party",
+    "amount": "2200",
+    "candidate": "McCANN, Rob",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour - Waikanae Branch"
+    }
+  },
+  {
+    "electorate": "Ōtaki",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "McCANN, Rob",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour - Paraparaumu Branch"
+    }
+  },
+  {
+    "electorate": "Ōtaki",
+    "party": "Labour Party",
+    "amount": "523.81",
+    "candidate": "McCANN, Rob",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour - Waikanae Branch"
+    }
+  },
+  {
+    "electorate": "Rotorua",
+    "party": "National Party",
+    "amount": "25000",
+    "candidate": "McCLAY, Todd",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "McCLAY, Todd",
+    "amount": "10000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "charles dodds",
+          "name": "Charles Sheldon DODDS"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "david dodds",
+          "name": "David Frances DODDS"
+        },
+        {
+          "clean_name": "michael crawford",
+          "name": "Michael Wayne CRAWFORD"
+        },
+        {
+          "clean_name": "charles dodds",
+          "name": "Charles Sheldon DODDS"
+        },
+        {
+          "clean_name": "david nielsen",
+          "name": "David Edward Godman NIELSEN"
+        },
+        {
+          "clean_name": "charles dodds",
+          "name": "Charles Sheldon DODDS"
+        }
+      ],
+      "name": "Red Stag"
+    },
+    "electorate": "Rotorua",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "McCLAY, Todd",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "wayne holmes",
+          "name": "Wayne Douglas HOLMES"
+        },
+        {
+          "clean_name": "ryan holmes",
+          "name": "Ryan Joseph Ashworth HOLMES"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "wayne holmes",
+          "name": "Wayne Douglas HOLMES"
+        },
+        {
+          "clean_name": "david fredericksen",
+          "name": "David Warren FREDERICKSEN"
+        },
+        {
+          "clean_name": "simmonds limited",
+          "name": "SIMMONDS & BALL TRUSTEES 2007 LIMITED"
+        }
+      ],
+      "name": "Holmes Capital Ltd"
+    },
+    "electorate": "Rotorua",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Rotorua",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "McCLAY, Todd",
+    "donor": {
+      "clean_name": "j kaur",
+      "name": "J Badh & H Kaur"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "McCLAY, Todd",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Rotorua",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Wigram",
+    "party": "Internet Party",
+    "amount": "10994.23",
+    "candidate": "McCLINTOCK, Lois",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "East Coast Bays",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "McCULLY, Murray",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "East Coast Bays",
+    "party": "National Party",
+    "amount": "1411.16",
+    "candidate": "McCULLY, Murray",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "East Coast Bays",
+    "party": "National Party",
+    "amount": "1029.25",
+    "candidate": "McCULLY, Murray",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rangitīkei",
+    "party": "National Party",
+    "amount": "17065.54",
+    "candidate": "McKELVIE, Ian",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Māori Party",
+    "amount": "10000",
+    "candidate": "McKENZIE, Chris",
+    "donor": {
+      "clean_name": "george turia",
+      "name": "George Turia"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "McKENZIE, Chris",
+    "donor": {
+      "clean_name": "maori office",
+      "name": "Maori Party National Office"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "10000",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "te electorate",
+      "name": "Te Tai Tokerau Electorate"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "maori council",
+      "name": "Maori Party National Council"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "3000",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "te electorate",
+      "name": "Te Tai Tokerau Electorate"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "2220",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "veronica henare",
+      "name": "Veronica Henare"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "1889.59",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "susan cullen",
+      "name": "Susan Cullen"
+    }
+  },
+  {
+    "electorate": "Tāmaki Makaurau",
+    "party": "Māori Party",
+    "amount": "1850.5",
+    "candidate": "McLEAN, Rangi",
+    "donor": {
+      "clean_name": "john trust",
+      "name": "John Murphy - Hawera Trust"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Conservative",
+    "amount": "25183.44",
+    "candidate": "McVICAR, Garth",
+    "donor": {
+      "clean_name": "conservative zealand",
+      "name": "Conservative Party of New Zealand"
+    }
+  },
+  {
+    "electorate": "Tāmaki",
+    "party": "ACT New Zealand",
+    "amount": "2500",
+    "candidate": "MILNE, Mike",
+    "donor": {
+      "clean_name": "john boscawen",
+      "name": "John Boscawen"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "Labour Party",
+    "amount": "13369.58",
+    "candidate": "MILNE, Tony",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Chch Central Elec Comm (L Carswell))"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "Labour Party",
+    "amount": "5018.92",
+    "candidate": "MILNE, Tony",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Chch Central Elec Comm (L Carswell))"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "Labour Party",
+    "amount": "4413.19",
+    "candidate": "MILNE, Tony",
+    "donor": {
+      "clean_name": "labour auction",
+      "name": "Labour - Fundraiser - Paint The Town Red Auction (R Watson)"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "Labour Party",
+    "amount": "2154.67",
+    "candidate": "MILNE, Tony",
+    "donor": {
+      "clean_name": "flyer donation",
+      "name": "Flyer Donation (L Carswell)"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "Labour Party",
+    "amount": "1564",
+    "candidate": "MILNE, Tony",
+    "donor": {
+      "clean_name": "film raiser",
+      "name": "Film Evening Fund Raiser (I Rule)"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "New Zealand First Party",
+    "amount": "4553.4",
+    "candidate": "MITCHELL, Clayton",
+    "donor": {
+      "clean_name": "clayton mitchell",
+      "name": "Clayton Mitchell"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "National Party",
+    "amount": "8488.72",
+    "candidate": "MITCHELL, Mark",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "National Party",
+    "amount": "7888.3",
+    "candidate": "MITCHELL, Mark",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "National Party",
+    "amount": "3048.38",
+    "candidate": "MITCHELL, Mark",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "National Party",
+    "amount": "2794.14",
+    "candidate": "MITCHELL, Mark",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rodney",
+    "party": "National Party",
+    "amount": "1034.99",
+    "candidate": "MITCHELL, Mark",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "MORONEY, Sue",
+    "donor": {
+      "clean_name": "sue moroney",
+      "name": "Sue Moroney"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "MORONEY, Sue",
+    "donor": {
+      "clean_name": "sue moroney",
+      "name": "Sue Moroney"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "Labour Party",
+    "amount": "3000",
+    "candidate": "MORONEY, Sue",
+    "donor": {
+      "clean_name": "mike moroney",
+      "name": "Mike Moroney"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "Labour Party",
+    "amount": "3000",
+    "candidate": "MORONEY, Sue",
+    "donor": {
+      "clean_name": "mike moroney",
+      "name": "Mike Moroney"
+    }
+  },
+  {
+    "electorate": "Hamilton West",
+    "party": "Labour Party",
+    "amount": "400",
+    "candidate": "MORONEY, Sue",
+    "donor": {
+      "clean_name": "sue moroney",
+      "name": "Sue Moroney"
+    }
+  },
+  {
+    "electorate": "Bay of Plenty",
+    "party": "National Party",
+    "amount": "25000",
+    "candidate": "MULLER, Todd",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "NASH, Stuart Alexander",
+    "amount": "36000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael stanley",
+          "name": "Michael Geoffrey STANLEY"
+        },
+        {
+          "clean_name": "desmond gittings",
+          "name": "Desmond Joseph GITTINGS"
+        },
+        {
+          "clean_name": "troy bowker",
+          "name": "Troy Richard BOWKER"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "troy bowker",
+          "name": "Troy Richard BOWKER"
+        },
+        {
+          "clean_name": "michael stanley",
+          "name": "Michael Geoffrey STANLEY"
+        }
+      ],
+      "name": "Caniwi Capital Partners "
+    },
+    "electorate": "Napier",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "31000",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "aj kelly",
+      "name": "AJ Kelly "
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "8000",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party - Napier branch"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "bob jones",
+      "name": "Bob Jones"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party - Taradale Branch"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party - Women's branch"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "Labour Party",
+    "amount": "8999.5",
+    "candidate": "NASH, Stuart Alexander",
+    "donor": {
+      "clean_name": "lynch phibbs",
+      "name": "Lynch Phibbs"
+    }
+  },
+  {
+    "electorate": "Palmerston North",
+    "party": "National Party",
+    "amount": "25688.34",
+    "candidate": "NAYLOR, Jono",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Te Atatū",
+    "party": "National Party",
+    "amount": "18819.67",
+    "candidate": "NGARO, Alfred",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "NGARO, Alfred",
+    "amount": "9187.82",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "danny lendich",
+          "name": "Danny LENDICH"
+        },
+        {
+          "clean_name": "dianne lendich",
+          "name": "Dianne LENDICH"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "danny lendich",
+          "name": "Danny LENDICH"
+        },
+        {
+          "clean_name": "dianne lendich",
+          "name": "Dianne LENDICH"
+        },
+        {
+          "clean_name": "bernard allen",
+          "name": "Bernard ALLEN"
+        }
+      ],
+      "name": "All Seasons Properties Ltd"
+    },
+    "electorate": "Te Atatū",
+    "party": "National Party"
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "NGARO, Alfred",
+    "amount": "2500",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Te Atatū",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "MANA Movement",
+    "amount": "60000",
+    "candidate": "NIKORA, Te Hāmua",
+    "donor": {
+      "clean_name": "internet mana",
+      "name": "Internet Mana"
+    }
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "Labour Party",
+    "amount": "18000",
+    "candidate": "O'CONNOR, Damien Peter",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (West-Coast Tasman Committee)"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "O'CONNOR, Damien Peter",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "West Coast-Tasman",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Tāmaki",
+    "party": "National Party",
+    "amount": "17882.29",
+    "candidate": "O'CONNOR, Simon",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tāmaki",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "O'CONNOR, Simon",
+    "donor": {
+      "clean_name": "barry colman",
+      "name": "Barry Colman"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "Māori Party",
+    "amount": "95000",
+    "candidate": "PAENGA, Te Hira",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party"
+    }
+  },
+  {
+    "electorate": "Te Tai Tokerau",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "PAENGA, Te Hira",
+    "donor": {
+      "clean_name": "maori party",
+      "name": "Maori Party"
+    }
+  },
+  {
+    "electorate": "Mana",
+    "party": "National Party",
+    "amount": "15454.06",
+    "candidate": "PARATA, Hekia",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Rongotai",
+    "party": "MANA Movement",
+    "amount": "2000",
+    "candidate": "PARETUTANGANUI-TAMATI, Ariana",
+    "donor": {
+      "clean_name": "michael scott",
+      "name": "Michael Scott"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "PARMAR, Parmjeet",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "National Party",
+    "amount": "2903.88",
+    "candidate": "PARMAR, Parmjeet",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Mt Roskill",
+    "party": "National Party",
+    "amount": "1500",
+    "candidate": "PARMAR, Parmjeet",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Tauranga",
+    "party": "ACT New Zealand",
+    "amount": "5000",
+    "candidate": "PEDERSEN, Stuart",
+    "donor": {
+      "clean_name": "marian pedersen",
+      "name": "Marian Pedersen"
+    }
+  },
+  {
+    "electorate": "Kelston",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "PENK, Christopher",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Kelston",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "PENK, Christopher",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Kelston",
+    "party": "National Party",
+    "amount": "2000",
+    "candidate": "PENK, Christopher",
+    "donor": {
+      "clean_name": "nicki taylor",
+      "name": "Nicki and Josh Taylor"
+    }
+  },
+  {
+    "electorate": "North Shore",
+    "party": "Conservative",
+    "amount": "16691.4",
+    "candidate": "PERKIN, Melissa",
+    "donor": {
+      "clean_name": "conservative zealand",
+      "name": "Conservative Party of New Zealand"
+    }
+  },
+  {
+    "electorate": "Tukituki",
+    "party": "Green Party",
+    "amount": "200",
+    "candidate": "PERLEY, Chris",
+    "donor": {
+      "clean_name": "j jukes",
+      "name": "J W Jukes"
+    }
+  },
+  {
+    "electorate": "Auckland Central",
+    "party": "Internet Party",
+    "amount": "29266.99",
+    "candidate": "PIERARD, Miriam",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Coromandel",
+    "party": "Labour Party",
+    "amount": "6000",
+    "candidate": "POSCHL, Korbinian",
+    "donor": {
+      "clean_name": "labour party",
+      "name": "Labour Party"
+    }
+  },
+  {
+    "electorate": "Northland",
+    "party": "Labour Party",
+    "amount": "1000",
+    "candidate": "PRIME, Willow-Jean",
+    "donor": {
+      "clean_name": "h dear",
+      "name": "H Dear"
+    }
+  },
+  {
+    "electorate": "Northland",
+    "party": "Labour Party",
+    "amount": "1000",
+    "candidate": "PRIME, Willow-Jean",
+    "donor": {
+      "clean_name": "h dear",
+      "name": "H Dear"
+    }
+  },
+  {
+    "electorate": "Northland",
+    "party": "Labour Party",
+    "amount": "300",
+    "candidate": "PRIME, Willow-Jean",
+    "donor": {
+      "clean_name": "h dear",
+      "name": "H Dear"
+    }
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "PUGH, Maureen",
+    "donor": {
+      "clean_name": "holland trust",
+      "name": "Holland Memorial Trust"
+    }
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "PUGH, Maureen",
+    "donor": {
+      "clean_name": "holland trust",
+      "name": "Holland Memorial Trust"
+    }
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "PUGH, Maureen",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "PUGH, Maureen",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "West Coast-Tasman",
+    "party": "National Party"
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "PUGH, Maureen",
+    "donor": {
+      "clean_name": "tony williams",
+      "name": "Tony Williams"
+    }
+  },
+  {
+    "electorate": "West Coast-Tasman",
+    "party": "National Party",
+    "amount": "1000",
+    "candidate": "PUGH, Maureen",
+    "donor": {
+      "clean_name": "tony williams",
+      "name": "Tony Williams"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Conservative",
+    "amount": "21782.32",
+    "candidate": "RANKIN, Christine",
+    "donor": {
+      "clean_name": "conservative zealand",
+      "name": "Conservative Party of New Zealand"
+    }
+  },
+  {
+    "electorate": "Whangarei",
+    "party": "National Party",
+    "amount": "21394.35",
+    "candidate": "RETI, Shane",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "Labour Party",
+    "amount": "5570.9",
+    "candidate": "RETZLAFF, Hermann",
+    "donor": {
+      "clean_name": "leticia retzlaff",
+      "name": "Leticia Retzlaff"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "Labour Party",
+    "amount": "5071.6",
+    "candidate": "RETZLAFF, Hermann",
+    "donor": {
+      "clean_name": "leota fipi",
+      "name": "Leota Fipi"
+    }
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "RETZLAFF, Hermann",
+    "donor": {
+      "clean_name": "hermann retzlaff",
+      "name": "Hermann Paul Retzlaff"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "RETZLAFF, Hermann",
+    "amount": "2000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "richard priest",
+          "name": "Richard Gordon PRIEST"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "richard priest",
+          "name": "Richard Gordon PRIEST"
+        },
+        {
+          "clean_name": "susan curtling",
+          "name": "Susan CURTLING"
+        }
+      ],
+      "name": "RPA Ltd"
+    },
+    "electorate": "Upper Harbour",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Upper Harbour",
+    "party": "Labour Party",
+    "amount": "1800",
+    "candidate": "RETZLAFF, Hermann",
+    "donor": {
+      "clean_name": "slade family",
+      "name": "Slade Family"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "RINTOUL, Ken",
+    "amount": "16883.13",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "kenneth rintoul",
+          "name": "Kenneth Alan RINTOUL"
+        },
+        {
+          "clean_name": "phyllis rintoul",
+          "name": "Phyllis Kathleen RINTOUL"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "kenneth rintoul",
+          "name": "Kenneth Alan RINTOUL"
+        },
+        {
+          "clean_name": "phyllis rintoul",
+          "name": "Phyllis Kathleen RINTOUL"
+        }
+      ],
+      "name": "The Rintoul Group Ltd"
+    },
+    "electorate": "Northland",
+    "party": "Focus New Zealand"
+  },
+  {
+    "electorate": "Wellington Central",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ROBERTSON, Grant",
+    "donor": {
+      "clean_name": "beverly price",
+      "name": "Beverly Price"
+    }
+  },
+  {
+    "electorate": "Wellington Central",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "ROBERTSON, Grant",
+    "donor": {
+      "clean_name": "maritime nz",
+      "name": "Maritime Union of NZ"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "ROSS, Jami-Lee",
+    "amount": "25000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "jeremy goodwin",
+          "name": "Jeremy James Mallaby GOODWIN"
+        },
+        {
+          "clean_name": "donghua liu",
+          "name": "Donghua LIU"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "roncon limited",
+          "name": "RONCON PACIFIC HOTEL MANAGEMENT HOLDINGS LIMITED"
+        }
+      ],
+      "name": "Roncon Pacific Hotel Managment Holdings Ltd"
+    },
+    "electorate": "Botany",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Botany",
+    "party": "National Party",
+    "amount": "24296.21",
+    "candidate": "ROSS, Jami-Lee",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Labour Party",
+    "amount": "3975",
+    "candidate": "RURAWHE, Adrian",
+    "donor": {
+      "clean_name": "gaylene nepia",
+      "name": "Gaylene Nepia"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Labour Party",
+    "amount": "3065",
+    "candidate": "RURAWHE, Adrian",
+    "donor": {
+      "clean_name": "christina gush",
+      "name": "Christina Gush"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Labour Party",
+    "amount": "2555",
+    "candidate": "RURAWHE, Adrian",
+    "donor": {
+      "clean_name": "walter rurawhe",
+      "name": "Walter Rurawhe"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Labour Party",
+    "amount": "2375",
+    "candidate": "RURAWHE, Adrian",
+    "donor": {
+      "clean_name": "jackie rurawhe",
+      "name": "Jackie Rurawhe"
+    }
+  },
+  {
+    "electorate": "Te Tai Hauāuru",
+    "party": "Labour Party",
+    "amount": "1500",
+    "candidate": "RURAWHE, Adrian",
+    "donor": {
+      "clean_name": "paul reynolds",
+      "name": "Paul F A Reynolds"
+    }
+  },
+  {
+    "electorate": "Rangitīkei",
+    "party": "Labour Party",
+    "amount": "10000",
+    "candidate": "RUSSELL, Deborah",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party Feilding Branch"
+    }
+  },
+  {
+    "electorate": "Rangitīkei",
+    "party": "Labour Party",
+    "amount": "5000",
+    "candidate": "RUSSELL, Deborah",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party Feilding Branch"
+    }
+  },
+  {
+    "electorate": "Rangitīkei",
+    "party": "Labour Party",
+    "amount": "100",
+    "candidate": "RUSSELL, Deborah",
+    "donor": {
+      "clean_name": "labour branch",
+      "name": "Labour Party Feilding Branch"
+    }
+  },
+  {
+    "electorate": "Northland",
+    "party": "National Party",
+    "amount": "15200",
+    "candidate": "SABIN, Mike",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "SABIN, Mike",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Northland",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Manukau East",
+    "party": "Labour Party",
+    "amount": "29330.07",
+    "candidate": "SALESA, Jenny",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Manukau East Electorate)"
+    }
+  },
+  {
+    "electorate": "Manukau East",
+    "party": "Labour Party",
+    "amount": "2700",
+    "candidate": "SALESA, Jenny",
+    "donor": {
+      "clean_name": "matila latu-ali",
+      "name": "Matila Latu-Ali"
+    }
+  },
+  {
+    "electorate": "East Coast",
+    "party": "Internet Party",
+    "amount": "12577.05",
+    "candidate": "SALMON, Patrick",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Kelston",
+    "party": "Internet Party",
+    "amount": "19076.93",
+    "candidate": "SAMI, Roshni",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "National Party",
+    "amount": "7000",
+    "candidate": "SCOTT, Alastair",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Wairarapa",
+    "party": "National Party",
+    "amount": "3000",
+    "candidate": "SCOTT, Alastair",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "ACT New Zealand",
+    "amount": "24480.95",
+    "candidate": "SEYMOUR, David",
+    "donor": {
+      "clean_name": "act zealand",
+      "name": "ACT New Zealand"
+    }
+  },
+  {
+    "electorate": "Mt Albert",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "SHEARER, David",
+    "donor": {
+      "clean_name": "david shearer",
+      "name": "David Shearer"
+    }
+  },
+  {
+    "electorate": "Mt Albert",
+    "party": "Labour Party",
+    "amount": "500",
+    "candidate": "SHEARER, David",
+    "donor": {
+      "clean_name": "david fowlie",
+      "name": "David Fowlie"
+    }
+  },
+  {
+    "electorate": "Mt Albert",
+    "party": "Labour Party",
+    "amount": "150",
+    "candidate": "SHEARER, David",
+    "donor": {
+      "clean_name": "j hutchinson",
+      "name": "J Hutchinson"
+    }
+  },
+  {
+    "electorate": "Coromandel",
+    "party": "National Party",
+    "amount": "25000",
+    "candidate": "SIMPSON, Scott",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "Labour Party",
+    "amount": "10000",
+    "candidate": "SIO, Sua William",
+    "donor": {
+      "clean_name": "sally ikinofo",
+      "name": "Sally Ikinofo"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "Labour Party",
+    "amount": "8500",
+    "candidate": "SIO, Sua William",
+    "donor": {
+      "clean_name": "sally ikinofo",
+      "name": "Sally Ikinofo"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "Labour Party",
+    "amount": "6500",
+    "candidate": "SIO, Sua William",
+    "donor": {
+      "clean_name": "sally ikinofo",
+      "name": "Sally Ikinofo"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "Labour Party",
+    "amount": "4886.22",
+    "candidate": "SIO, Sua William",
+    "donor": {
+      "clean_name": "mangere party",
+      "name": "Mangere Labour Party"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "SIO, Sua William",
+    "donor": {
+      "clean_name": "andrew singh",
+      "name": "Andrew Singh"
+    }
+  },
+  {
+    "electorate": "Nelson",
+    "party": "National Party",
+    "amount": "25000",
+    "candidate": "SMITH, Nick",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Kaikōura",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "SMITH, Stuart",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Kaikōura",
+    "party": "National Party",
+    "amount": "10000",
+    "candidate": "SMITH, Stuart",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "SMITH, Stuart",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Kaikōura",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Invercargill",
+    "party": "Labour Party",
+    "amount": "4000",
+    "candidate": "SOPER, Lesley",
+    "donor": {
+      "clean_name": "david melmoth",
+      "name": "David Melmoth"
+    }
+  },
+  {
+    "electorate": "Invercargill",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "SOPER, Lesley",
+    "donor": {
+      "clean_name": "josh taylor",
+      "name": "Josh and Nikki Taylor"
+    }
+  },
+  {
+    "electorate": "Invercargill",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "SOPER, Lesley",
+    "donor": {
+      "clean_name": "nz union",
+      "name": "NZ Meatworkers Union"
+    }
+  },
+  {
+    "electorate": "Dunedin North",
+    "party": "Internet Party",
+    "amount": "9103.29",
+    "candidate": "STEWART, Rob",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Waiariki",
+    "party": "MANA Movement",
+    "amount": "50000",
+    "candidate": "SYKES, Annette",
+    "donor": {
+      "clean_name": "internet mana",
+      "name": "Internet Mana"
+    }
+  },
+  {
+    "electorate": "North Shore",
+    "party": "Labour Party",
+    "amount": "9127.42",
+    "candidate": "SZABO, Claire",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (North Shore Labour Party)"
+    }
+  },
+  {
+    "electorate": "Northland",
+    "party": "Conservative",
+    "amount": "10908.7",
+    "candidate": "TAYLOR, Mel",
+    "donor": {
+      "clean_name": "conservative party",
+      "name": "Conservative Party"
+    }
+  },
+  {
+    "electorate": "Waikato",
+    "party": "National Party",
+    "amount": "7054.13",
+    "candidate": "TISCH, Lindsay",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "TISCH, Lindsay",
+    "amount": "5000",
+    "donor": {
+      "directors": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        }
+      ],
+      "shareholders": [
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "guy mannering",
+          "name": "Guy Alexander MANNERING"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        },
+        {
+          "clean_name": "andrew talley",
+          "name": "Andrew Ivan TALLEY"
+        },
+        {
+          "clean_name": "peter talley",
+          "name": "Peter Ivan TALLEY"
+        },
+        {
+          "clean_name": "john fitchett",
+          "name": "John Malcolm FITCHETT"
+        },
+        {
+          "clean_name": "michael talley",
+          "name": "Michael Anthony TALLEY"
+        },
+        {
+          "clean_name": "graeme malone",
+          "name": "Graeme Peter MALONE"
+        },
+        {
+          "clean_name": "james ryder",
+          "name": "James Rory RYDER"
+        },
+        {
+          "clean_name": "milan talley",
+          "name": "Milan Daniel TALLEY"
+        }
+      ],
+      "name": "Talley's Group Ltd"
+    },
+    "electorate": "Waikato",
+    "party": "National Party"
+  },
+  {
+    "electorate": "Hamilton East",
+    "party": "United Future",
+    "amount": "96",
+    "candidate": "TODD, Quentin",
+    "donor": {
+      "clean_name": "united auckland",
+      "name": "United Future Auckland"
+    }
+  },
+  {
+    "electorate": "East Coast",
+    "party": "National Party",
+    "amount": "12967.92",
+    "candidate": "TOLLEY, Anne",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "East Coast",
+    "party": "National Party",
+    "amount": "529",
+    "candidate": "TOLLEY, Anne",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Whanganui",
+    "party": "Māori Party",
+    "amount": "5000",
+    "candidate": "TUAINE, Nancy",
+    "donor": {
+      "clean_name": "whanganui board",
+      "name": "Whanganui Regional Development Trust Board"
+    }
+  },
+  {
+    "electorate": "Māngere",
+    "party": "National Party",
+    "amount": "14749.84",
+    "candidate": "TURNER, Misa Fia",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Taupō",
+    "party": "National Party",
+    "amount": "29027",
+    "candidate": "UPSTON, Louise",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Wellington Central",
+    "party": "Internet Party",
+    "amount": "4194.69",
+    "candidate": "VALENTINE, Callum",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "Wigram",
+    "party": "National Party",
+    "amount": "10657.48",
+    "candidate": "VARLEY, Karl",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Democrats for Social Credit",
+    "amount": "1325.95",
+    "candidate": "VOIGHT, Warren",
+    "donor": {
+      "clean_name": "nz party",
+      "name": "NZ Democrats for Social Credit Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Democrats for Social Credit",
+    "amount": "1104",
+    "candidate": "VOIGHT, Warren",
+    "donor": {
+      "clean_name": "nz party",
+      "name": "NZ Democrats for Social Credit Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Democrats for Social Credit",
+    "amount": "377.2",
+    "candidate": "VOIGHT, Warren",
+    "donor": {
+      "clean_name": "nz party",
+      "name": "NZ Democrats for Social Credit Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "Democrats for Social Credit",
+    "amount": "115",
+    "candidate": "VOIGHT, Warren",
+    "donor": {
+      "clean_name": "nz party",
+      "name": "NZ Democrats for Social Credit Party"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "National Party",
+    "amount": "15000",
+    "candidate": "WAGNER, Nicky",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "National Party",
+    "amount": "6000",
+    "candidate": "WAGNER, Nicky",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "National Party",
+    "amount": "2500",
+    "candidate": "WAGNER, Nicky",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Christchurch Central",
+    "party": "National Party",
+    "amount": "1000",
+    "candidate": "WAGNER, Nicky",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "National Party",
+    "amount": "20231.54",
+    "candidate": "WALFORD, Wayne",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Napier",
+    "party": "National Party",
+    "amount": "10017.29",
+    "candidate": "WALFORD, Wayne",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "National Party",
+    "amount": "5000",
+    "candidate": "WALKER, Hamish",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "National Party",
+    "amount": "500",
+    "candidate": "WALKER, Hamish",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Dunedin South",
+    "party": "National Party",
+    "amount": "500",
+    "candidate": "WALKER, Hamish",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Kaikōura",
+    "party": "Labour Party",
+    "amount": "4000",
+    "candidate": "WALKER, Janette",
+    "donor": {
+      "clean_name": "olivia scaletti",
+      "name": "Olivia Isobel Scaletti"
+    }
+  },
+  {
+    "electorate": "Manurewa",
+    "party": "Labour Party",
+    "amount": "1800",
+    "candidate": "WALL, Louisa Hareruia",
+    "donor": {
+      "clean_name": "bill marshall",
+      "name": "Bill Marshall"
+    }
+  },
+  {
+    "electorate": "Manurewa",
+    "party": "Labour Party",
+    "amount": "1800",
+    "candidate": "WALL, Louisa Hareruia",
+    "donor": {
+      "clean_name": "ian kaihe-wetting",
+      "name": "Ian Kaihe-Wetting and Erik Kaihe-Wetting"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "WHAITIRI, Meka",
+    "amount": "2000",
+    "donor": {
+      "directors": [],
+      "shareholders": [],
+      "name": "Hawkes Bay Seafoods"
+    },
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "Labour Party"
+  },
+  {
+    "electorate": "Ikaroa-Rāwhiti",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "WHAITIRI, Meka",
+    "donor": {
+      "clean_name": "ruruhira trust",
+      "name": "Ruruhira Whanau Trust"
+    }
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "Labour Party",
+    "amount": "4000",
+    "candidate": "WILLIAMS, Poto",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Christchurch East Labour Electorate Committee (Paint The Town Red))"
+    }
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "Labour Party",
+    "amount": "3000",
+    "candidate": "WILLIAMS, Poto",
+    "donor": {
+      "clean_name": "ken anderson",
+      "name": "Ken Anderson"
+    }
+  },
+  {
+    "electorate": "Christchurch East",
+    "party": "Labour Party",
+    "amount": "2154.67",
+    "candidate": "WILLIAMS, Poto",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Northern South Island Labour Regional Council)"
+    }
+  },
+  {
+    "electorate": "Pakuranga",
+    "party": "National Party",
+    "amount": "4500",
+    "candidate": "WILLIAMSON, Maurice",
+    "donor": {
+      "clean_name": "grant biel",
+      "name": "Grant Biel"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Labour Party",
+    "amount": "3000",
+    "candidate": "WOOD, Michael Philip",
+    "donor": {
+      "clean_name": "paul grimshaw",
+      "name": "Paul Grimshaw"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Labour Party",
+    "amount": "2000",
+    "candidate": "WOOD, Michael Philip",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Mt Roskill Labour LEC)"
+    }
+  },
+  {
+    "electorate": "Epsom",
+    "party": "Labour Party",
+    "amount": "1807",
+    "candidate": "WOOD, Michael Philip",
+    "donor": {
+      "clean_name": "helga arlington",
+      "name": "Helga Arlington (Quiz night fundraiser)"
+    }
+  },
+  {
+    "electorate": "Dunedin North",
+    "party": "National Party",
+    "amount": "15000",
+    "candidate": "WOODHOUSE, Michael",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "Wigram",
+    "party": "Labour Party",
+    "amount": "15000",
+    "candidate": "WOODS, Megan",
+    "donor": {
+      "clean_name": "wigram housie",
+      "name": "Wigram Housie"
+    }
+  },
+  {
+    "electorate": "Wigram",
+    "party": "Labour Party",
+    "amount": "4000",
+    "candidate": "WOODS, Megan",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Wigram)"
+    }
+  },
+  {
+    "electorate": "Wigram",
+    "party": "Labour Party",
+    "amount": "1000",
+    "candidate": "WOODS, Megan",
+    "donor": {
+      "clean_name": "labour labour",
+      "name": "Labour (Wigram)"
+    }
+  },
+  {
+    "electorate": "Te Atatū",
+    "party": "Internet Party",
+    "amount": "29220.89",
+    "candidate": "YONG, Chris",
+    "donor": {
+      "clean_name": "internet party",
+      "name": "Internet Party"
+    }
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "National Party",
+    "amount": "8484.1",
+    "candidate": "YOUNG, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "is_corporate": "TRUE",
+    "candidate": "YOUNG, Jonathan",
+    "amount": "5000",
+    "donor": [],
+    "electorate": "New Plymouth",
+    "party": "National Party"
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "National Party",
+    "amount": "4225",
+    "candidate": "YOUNG, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "National Party",
+    "amount": "4000",
+    "candidate": "YOUNG, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "National Party",
+    "amount": "4000",
+    "candidate": "YOUNG, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "electorate": "New Plymouth",
+    "party": "National Party",
+    "amount": "1540",
+    "candidate": "YOUNG, Jonathan",
+    "donor": {
+      "clean_name": "new party",
+      "name": "New Zealand National Party"
+    }
+  },
+
+  {
+    "party": "National Party",
+    "amount": "1000",
+    "donor": {
+      "clean_name": "earl hagaman",
+      "name": "New Zealand National Party"
+    }
+  },
+  {
+    "party": "National Party",
+    "amount": "100000",
+    "donor": {
+      "clean_name": "earl hagaman",
+      "name": "New Zealand National Party"
+    }
+  }
+]
